@@ -279,40 +279,40 @@
 
 <!-- jQuery first, then Other JS. -->
 
-<script src="js/jquery-3.3.1.js"></script>
+<script src="{{ asset('js/jquery-3.3.1.js')}}"></script>
 
 <!-- jQuery-scripts for Template -->
 
-<script src="js/js-plugins/ajax-pagination.js"></script>
-<script src="js/js-plugins/jquery.countdown.min.js"></script>
+<script src="{{ asset ('js/js-plugins/ajax-pagination.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/jquery.countdown.min.js')}}"></script>
 
-<script src="js/js-plugins/crum-mega-menu.js"></script>
-<script src="js/js-plugins/swiper.jquery.min.js"></script>
-<script src="js/js-plugins/jquery.typeahead.js"></script>
-<script src="js/js-plugins/velocity.min.js"></script>
+<script src="{{ asset ('js/js-plugins/crum-mega-menu.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/swiper.jquery.min.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/jquery.typeahead.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/velocity.min.js')}}"></script>
 
-<script src="js/js-plugins/waypoints.js"></script>
-<script src="js/js-plugins/jquery-countTo.js"></script>
-<script src="js/js-plugins/jquery.nice-select.js"></script>
-<script src="js/js-plugins/imagesLoaded.js"></script>
-<script src="js/js-plugins/jquery.magnific-popup.js"></script>
-<script src="js/js-plugins/jquery.matchHeight.js"></script>
-<script src="js/js-plugins/Headroom.js"></script>
-<script src="js/js-plugins/smooth-scroll.js"></script>
-<script src="js/js-plugins/segment.js"></script>
-<script src="js/js-plugins/bootstrap.js"></script>
+<script src="{{ asset ('js/js-plugins/waypoints.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/jquery-countTo.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/jquery.nice-select.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/imagesLoaded.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/jquery.magnific-popup.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/jquery.matchHeight.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/Headroom.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/smooth-scroll.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/segment.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/bootstrap.js')}}"></script>
 <!--<script src="js/js-plugins/moment.js"></script>-->
 <!--<script src="js/js-plugins/moment-timezone.js"></script>-->
-<script src="js/js-plugins/isotope.pkgd.min.js"></script>
-<script src="js/js-plugins/ion.rangeSlider.js"></script>
-<script src="js/js-plugins/parsley.min.js"></script>
+<script src="{{ asset ('js/js-plugins/isotope.pkgd.min.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/ion.rangeSlider.js')}}"></script>
+<script src="{{ asset ('js/js-plugins/parsley.min.js')}}"></script>
 
-<script src="js/main.js"></script>
+<script src="{{ asset ('js/main.js')}}"></script>
 
 <!-- jQuery-scripts for Modules (Send Message) -->
-<script src="modules/forms/src/js/jquery.validate.min.js"></script>
-<script src="modules/forms/src/js/sweetalert2.all.js"></script>
-<script src="modules/forms/src/js/scripts.js"></script>
+<script src="{{ asset ('modules/forms/src/js/jquery.validate.min.js')}}"></script>
+<script src="{{ asset ('modules/forms/src/js/sweetalert2.all.js')}}"></script>
+<script src="{{ asset ('modules/forms/src/js/scripts.js')}}"></script>
 <!-- /jQuery-scripts for Modules (Send Message) -->
 
 </body>

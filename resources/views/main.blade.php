@@ -529,7 +529,7 @@
 								<img src="svg-icons/chat.svg" alt="chat" class="utouch-icon">
 							</div>
 							<div class="info-box-content">
-								<h5 class="info-box-title">Private Chat Integration</h5>
+								<h5 class="info-box-title">Seguridad</h5>
 								<p class="info-box-text">Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
 									tincidunt.
 								</p>
@@ -541,7 +541,7 @@
 								<img src="svg-icons/pictures.svg" alt="chat" class="utouch-icon">
 							</div>
 							<div class="info-box-content">
-								<h5 class="info-box-title">Perfect Grafic View</h5>
+								<h5 class="info-box-title">Eficiencia</h5>
 								<p class="info-box-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
 									nonummy nibh euismod.
 								</p>
@@ -552,7 +552,7 @@
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12 align-center">
 						<img class="particular-image" src="img/image.png" alt="image">
 						<a href="03_products.html" class="btn btn--red btn--with-shadow">
-							Learn More
+							Nuestras Apps
 						</a>
 					</div>
 
@@ -562,7 +562,7 @@
 								<img src="svg-icons/clock.svg" alt="chat" class="utouch-icon">
 							</div>
 							<div class="info-box-content">
-								<h5 class="info-box-title">Lifetime Updates</h5>
+								<h5 class="info-box-title">Rápido</h5>
 								<p class="info-box-text">Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
 									tincidunt.
 								</p>
@@ -574,7 +574,7 @@
 								<img src="svg-icons/calendar.svg" alt="chat" class="utouch-icon">
 							</div>
 							<div class="info-box-content">
-								<h5 class="info-box-title">Calendar Sinhronize</h5>
+								<h5 class="info-box-title">Distribuidores cerce de ti</h5>
 								<p class="info-box-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
 									nonummy euismod.
 								</p>

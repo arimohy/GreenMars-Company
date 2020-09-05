@@ -1,4 +1,4 @@
-<header class="header header--menu-rounded header--blue-lighteen" id="site-header">
+<header class="header header--small-lines header--blue-lighteen" id="site-header">
 
 	<div class="header-lines-decoration">
 		<span class="bg-secondary-color"></span>
@@ -21,7 +21,7 @@
 
 			<div class="site-logo">
 				<a href="index.html" class="full-block"></a>
-				<img src="img/logo.png" alt="GreenMars Company">
+				<img src="img/company/logoGreenMarsC.jpg" width="40" height="51" alt="GreenMars Company">
 				<div class="logo-text">
 					<div class="logo-title">GreenMars </div>
 					<div class="logo-sub-title">Company</div>
@@ -45,14 +45,14 @@
 
 				<ul class="primary-menu-menu">
 					<li class="menu-item-has-children">
-						<a href="index.html">Inicio</a>
+						<a href="/">Inicio</a>
 					</li>
 
 					<li class="">
 						<a href="#">Compañia</a>
 						<ul class="sub-menu">
 							<li>
-								<a href="02_company.html">
+								<a href="{{url('/aboutUs')}}">
 									Acerca de nosotros
 								</a>
 							</li>
@@ -62,30 +62,24 @@
 								</a>
 								<ul class="sub-menu">
 									<li>
-										<a href="08_events.html">Mayorista</a>
+										<a href="{{url('/mayorista')}}">Mayorista</a>
 									</li>
 									<li>
-										<a href="05_case_details_ver_01.html">Mayorista Distribuidor</a>
+										<a href="{{url('/distribuidor')}}">Mayorista Distribuidor</a>
 									</li>
 
 									<li>
-										<a href="06_case_details_ver_02.html">Ormiga</a>
+										<a href="{{url('/ormiga')}}">Ormiga</a>
+									</li>
+									<li>
+										<a href="{{url('/ormiga')}}">Bienes & Raices RADO</a>
 									</li>				
 								</ul>
 							</li>
-							<li>
-								<a href="03_products.html">
-									Misión
-								</a>
-							</li>
-							<li>
-								<a href="09_events_details_conference_workshops.html">
-									Visión
-								</a>
-							</li>
+							
 							
 							<li>
-								<a href="32_testimonials.html">
+								<a href="{{url('/testimonials')}}">
 									testimonios
 								</a>
 							</li>
@@ -101,11 +95,11 @@
 									<div class="product-item">
 										<div class="product-item-thumb">
 											<div class="square-colored bg-product-blue"></div>
-											<img src="img/product-item1.jpg" alt="product">
+											<img src="img/company/mayorista.jpeg" width="200" height="227" alt="product">
 										</div>
 										<div class="product-item-content">
 											<h6 class="title">Mayorits cliente. la APP mas segura, rapida y eficiente</h6>
-											<a href="05_case_details_ver_01.html" class="more-arrow">
+											<a href="{{ url('/mayorista')}}" class="more-arrow">
 												<span>Ver mas</span>
 												<div class="btn-next">
 													<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
@@ -124,11 +118,11 @@
 									<div class="product-item">
 										<div class="product-item-thumb">
 											<div class="square-colored bg-product-violet"></div>
-											<img src="img/product-item2.jpg" alt="product">
+											<img src="img/company/mayoristaDistribuidor.jpeg" width="200" height="227" alt="product">
 										</div>
 										<div class="product-item-content">
 											<h6 class="title">Mayorita Distribuidor. incrementa tus ventas</h6>
-											<a href="06_case_details_ver_02.html" class="more-arrow">
+											<a href="{{url('/distribuidor')}}" class="more-arrow">
 												<span>Ver mas</span>
 												<div class="btn-next">
 													<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
@@ -147,11 +141,11 @@
 									<div class="product-item">
 										<div class="product-item-thumb">
 											<div class="square-colored bg-product-red"></div>
-											<img src="img/product-item3.jpg" alt="product">
+											<img src="img/company/Ormiga.jpeg" width="200" height="227" alt="product">
 										</div>
 										<div class="product-item-content">
 											<h6 class="title">Ormiga. todos los productos </h6>
-											<a href="07_case_details_ver_03.html" class="more-arrow">
+											<a href="{{url('/ormiga')}}" class="more-arrow">
 												<span>Ver mas</span>
 												<div class="btn-next">
 													<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
@@ -166,7 +160,7 @@
 									</div>
 								</div>
 
-							<!--
+							
 
 								<div class="col4" data-mh="product-item">
 									<div class="product-item">
@@ -175,8 +169,8 @@
 											<img src="img/product-item4.jpg" alt="product">
 										</div>
 										<div class="product-item-content">
-											<h6 class="title">Nam liber tempor cum soluta nobis</h6>
-											<a href="05_case_details_ver_01.html" class="more-arrow">
+											<h6 class="title">Bienes y raices Rado</h6>
+											<a href="{{url('/ormiga')}}" class="more-arrow">
 												<span>View Case</span>
 												<div class="btn-next">
 													<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
@@ -190,7 +184,7 @@
 										</div>
 									</div>
 								</div>
-							-->
+							
 
 							</div>
 						</div>
@@ -209,21 +203,14 @@
 											<p class="megamenu-item-info-text">dedicados a resolver tus necesidades</p>
 										</li>
 										<li>
-											<a href="02_company.html">Acerca de nosotros</a>
+											<a href="{{url('/aboutUs')}}">Acerca de nosotros</a>
 										</li>
 										<li>
-											<a href="03_products.html">Nuestras Apps</a>
+											<a href="{{url('/ourApps')}}">Nuestras Apps</a>
 										</li>
+																		
 										<li>
-											<a href="04_works.html">
-												Misión
-											</a>
-										</li>
-										<li>
-											<a href="08_events.html">Visión</a>
-										</li>									
-										<li>
-											<a href="32_testimonials.html">
+											<a href="{{url('/testimonials')}}">
 												Testimonios
 											</a>
 										</li>
@@ -233,21 +220,23 @@
 								<div class="col4">
 									<ul>
 										<li class="megamenu-item-info">
-											<h5 class="megamenu-item-info-title">Nustras Apps</h5>
+											<h5 class="megamenu-item-info-title">Nuestras Apps</h5>
 											<p class="megamenu-item-info-text">Liderando en el mercado</p>
 										</li>
 										<li>
-											<a href="05_case_details_ver_01.html">Mayorista</a>
+											<a href="{{url('/distribuidor')}}">Mayorista</a>
 										</li>
 
 										<li>
-											<a href="06_case_details_ver_02.html">Mayorista Distribuidor</a>
+											<a href="{{url('/distribuidor')}}">Mayorista Distribuidor</a>
 										</li>
 
 										<li>
-											<a href="07_case_details_ver_03.html">Ormiga</a>
+											<a href="{{url('/ormiga')}}">Ormiga</a>
 										</li>
-										
+										<li>
+											<a href="{{url('/ormiga')}}">Bienes & Raices RADO</a>
+										</li>
 
 									</ul>
 								</div>
@@ -299,12 +288,10 @@
 					<li class="">
 						<a href="15_pricing_tables.html">Distribuidores</a>
 					</li>
-					<li class="">
-						<a href="16_news.html">News</a>
-					</li>
+					
 
 					<li class="">
-						<a href="18_contacts.html">Contacto</a>
+						<a href="{{url('/contact')}}">Contacto</a>
 					</li>
 				</ul>
 				<ul class="nav-add">
