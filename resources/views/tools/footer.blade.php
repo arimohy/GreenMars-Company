@@ -10,13 +10,13 @@
 	</div>
 
 	<div class="container">
-		<div class="row">
+		<div class="row" style="background: black;">
 			<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
 				<div class="widget w-info">
 					<div class="site-logo">
-						<a href="index.html" class="full-block"></a>
+						<a href="{{url('/')}}" class="full-block"></a>
 						<div class="logo-text">
-							<div class="logo-title">GreenMars</div>
+							<div class="logo-title" style="color:#45b01f">GreenMars</div>
 							<div class="logo-sub-title">Company</div>
 						</div>
 					</div>

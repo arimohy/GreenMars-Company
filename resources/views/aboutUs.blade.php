@@ -1,4 +1,4 @@
-@extends('index')
+@extends('layout')
 
 @section('content')
 
@@ -16,20 +16,22 @@
 					<div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module-img-content medium-padding100">
 							<div class="crumina-module crumina-heading">
-								<h6 class="heading-sup-title">Company</h6>
-								<h2 class="heading-title">Welcome to
-									<span class="c-primary">Utouch!</span> We create high quality products that will make your life better.
-								</h2>
-								<div class="h6 heading-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit.</div>
+								<h6 class="heading-sup-title">GreenMars Company</h6>
+								<h3 class="heading-title">Bienvenido a
+									<span class="c-primary">GreenMars!</span> 
+									Nosotros creamos aplicaciones de alta confiabilidad para hacer tu vida mejor.
+								</h3>
+								<div class="h6 heading-text">Descubre todas nuestras aplicaiones!</div>
 							</div>
 
-							<a href="03_products.html" class="btn btn-border btn--with-shadow c-primary">
-								Learn More
+							<a href="{{url('/ourApps')}}" class="btn btn-border btn--with-shadow c-primary">
+								Nuestras Apps
 							</a>
-
+							<!-- 
 							<a href="15_pricing_tables.html" class="btn btn--green btn--with-shadow">
 								Get trial version
 							</a>
+							-->
 
 						</div>
 					</div>
@@ -53,7 +55,7 @@
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h5 class="order-number">01.</h5>
-						<h3 class="h5 info-box-title">Who We Are</h3>
+						<h3 class="h5 info-box-title">Quines somos?</h3>
 						<p class="info-box-text">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
 							molestie consequat, vel illum dolore eu feugiat nulla facilisis.
 						</p>
@@ -63,7 +65,7 @@
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h5 class="order-number">02.</h5>
-						<h3 class="h5 info-box-title">What We Do</h3>
+						<h3 class="h5 info-box-title">¿Qué hacemos?</h3>
 						<p class="info-box-text">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
 							lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram,
 							anteposuerit litterarum formas humanitatis per.
@@ -74,7 +76,7 @@
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h5 class="order-number">03.</h5>
-						<h3 class="h5 info-box-title">How We Do It</h3>
+						<h3 class="h5 info-box-title">¿Por qué desarrollamos Apps?</h3>
 						<p class="info-box-text">Mirum est notare quam littera gothica, quam nunc putamus parum claram,
 							anteposuerit litterarum formas humanitatis per.
 						</p>

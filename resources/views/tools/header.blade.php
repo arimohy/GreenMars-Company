@@ -20,8 +20,8 @@
 		<div class="header-content-wrapper">
 
 			<div class="site-logo">
-				<a href="index.html" class="full-block"></a>
-				<img src="img/company/logoGreenMarsC.jpg" width="40" height="51" alt="GreenMars Company">
+				<a href="{{url('/')}}" class="full-block"></a>
+				<img src="img/company/logoGreenMarsC.png" width="50" height="61" alt="GreenMars Company">
 				<div class="logo-text">
 					<div class="logo-title">GreenMars </div>
 					<div class="logo-sub-title">Company</div>
@@ -69,15 +69,17 @@
 									</li>
 
 									<li>
-										<a href="{{url('/ormiga')}}">Ormiga</a>
+										<a href="{{url('/hormiga')}}">Hormiga</a>
 									</li>
 									<li>
-										<a href="{{url('/ormiga')}}">Bienes & Raices RADO</a>
+										<a href="{{url('/hormiga')}}">Bienes & Raices RADO</a>
 									</li>				
 								</ul>
 							</li>
 							
-							
+							<li>
+								<a href="">Trabaja con Nosotros</a>
+							</li>
 							<li>
 								<a href="{{url('/testimonials')}}">
 									testimonios
@@ -94,8 +96,8 @@
 								<div class="col4" data-mh="product-item">
 									<div class="product-item">
 										<div class="product-item-thumb">
-											<div class="square-colored bg-product-blue"></div>
-											<img src="img/company/mayorista.jpeg" width="200" height="227" alt="product">
+											<div class=" bg-product-blue"></div>
+											<img src="img/company/mayorista.png"   style="border-radius: 10px;" alt="product">
 										</div>
 										<div class="product-item-content">
 											<h6 class="title">Mayorits cliente. la APP mas segura, rapida y eficiente</h6>
@@ -117,8 +119,8 @@
 								<div class="col4" data-mh="product-item">
 									<div class="product-item">
 										<div class="product-item-thumb">
-											<div class="square-colored bg-product-violet"></div>
-											<img src="img/company/mayoristaDistribuidor.jpeg" width="200" height="227" alt="product">
+											<div class=" bg-product-white-own"></div>
+											<img src="img/company/mayoristaDistribuidor.png" style="border-radius: 10px;"  alt="product">
 										</div>
 										<div class="product-item-content">
 											<h6 class="title">Mayorita Distribuidor. incrementa tus ventas</h6>
@@ -140,12 +142,12 @@
 								<div class="col4" data-mh="product-item">
 									<div class="product-item">
 										<div class="product-item-thumb">
-											<div class="square-colored bg-product-red"></div>
-											<img src="img/company/Ormiga.jpeg" width="200" height="227" alt="product">
+											<div class=" bg-product-red-own"></div>
+											<img src="img/company/Ormiga.png" style="border-radius: 10px;" alt="product">
 										</div>
 										<div class="product-item-content">
-											<h6 class="title">Ormiga. todos los productos </h6>
-											<a href="{{url('/ormiga')}}" class="more-arrow">
+											<h6 class="title">Hormiga. todos los productos </h6>
+											<a href="{{url('/hormiga')}}" class="more-arrow">
 												<span>Ver mas</span>
 												<div class="btn-next">
 													<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
@@ -165,8 +167,8 @@
 								<div class="col4" data-mh="product-item">
 									<div class="product-item">
 										<div class="product-item-thumb">
-											<div class="square-colored bg-product-blue-dark"></div>
-											<img src="img/product-item4.jpg" alt="product">
+											<div class=" bg-product-white-own"></div>
+											<img src="img/company/logoRado.png"  style="border-radius: 10px;" alt="product">
 										</div>
 										<div class="product-item-content">
 											<h6 class="title">Bienes y raices Rado</h6>
@@ -190,105 +192,6 @@
 						</div>
 					</li>
 
-					<li class="menu-item-has-mega-menu menu-item-has-children">
-						<a href="#">Events</a>
-
-						<div class="megamenu" style="background-image: url('img/menu-bg.jpg');">
-							<div class="megamenu-row">
-
-								<div class="col4">
-									<ul>
-										<li class="megamenu-item-info">
-											<h5 class="megamenu-item-info-title">GreenMars Company</h5>
-											<p class="megamenu-item-info-text">dedicados a resolver tus necesidades</p>
-										</li>
-										<li>
-											<a href="{{url('/aboutUs')}}">Acerca de nosotros</a>
-										</li>
-										<li>
-											<a href="{{url('/ourApps')}}">Nuestras Apps</a>
-										</li>
-																		
-										<li>
-											<a href="{{url('/testimonials')}}">
-												Testimonios
-											</a>
-										</li>
-
-									</ul>
-								</div>
-								<div class="col4">
-									<ul>
-										<li class="megamenu-item-info">
-											<h5 class="megamenu-item-info-title">Nuestras Apps</h5>
-											<p class="megamenu-item-info-text">Liderando en el mercado</p>
-										</li>
-										<li>
-											<a href="{{url('/distribuidor')}}">Mayorista</a>
-										</li>
-
-										<li>
-											<a href="{{url('/distribuidor')}}">Mayorista Distribuidor</a>
-										</li>
-
-										<li>
-											<a href="{{url('/ormiga')}}">Ormiga</a>
-										</li>
-										<li>
-											<a href="{{url('/ormiga')}}">Bienes & Raices RADO</a>
-										</li>
-
-									</ul>
-								</div>
-								<div class="col4">
-									<ul>
-										<li class="megamenu-item-info">
-											<h5 class="megamenu-item-info-title">Elements</h5>
-											<p class="megamenu-item-info-text">Qui nunc nobis videntur parum clari.</p>
-										</li>
-										<li>
-											<a href="24_gallery_full_screen.html">Full Screen Gallery</a>
-										</li>
-										<li>
-											<a href="30_search_dark.html">Search Inline Dark</a>
-										</li>
-										<li>
-											<a href="30_search_light.html">Search Inline White</a>
-										</li>
-										<li>
-											<a href="31_search_full_screen_light.html">Search Fullscreen White</a>
-										</li>
-										<li>
-											<a href="23_galleries.html">Galleries</a>
-										</li>
-										<li>
-											<a href="17_news_details.html">Post Details</a>
-										</li>
-										<li>
-											<a href="20_page-not_found.html">Page Not Found 404</a>
-										</li>
-										<li>
-											<a href="29_headers.html">Headers</a>
-										</li>
-										<li>
-											<a href="typography.html">Typography</a>
-										</li>
-									</ul>
-								</div>
-
-
-								<div class="col4">
-
-								</div>
-
-							</div>
-						</div>
-					</li>
-
-					<li class="">
-						<a href="15_pricing_tables.html">Distribuidores</a>
-					</li>
-					
 
 					<li class="">
 						<a href="{{url('/contact')}}">Contacto</a>

@@ -1,0 +1,80 @@
+/* --------------  tools color about GreenMars and products ---------------*/
+
+.green-mars{
+  color: #45b01f;
+}
+
+
+.mayorista{
+  color:#2979ff;
+}
+
+.mayorista-cliente{
+  color:#ffffff;
+}
+
+.hormiga{
+  color: red;
+}
+
+
+.color-black-bg{
+   background-color: #000000;
+}
+
+/*-------------end tools ----------------------*/
+
+
+/*--------------------------Header --------------------*/
+
+.bg-product-white-own {
+  background-color: #d0d0d0; }
+  .bg-product-violet-own:before {
+    -webkit-box-shadow: 10px 0 25px rgba(187, 38, 240, 0.6);
+    box-shadow: 10px 0 25px rgba(187, 38, 240, 0.6); }
+
+.bg-product-red-own {
+  background-color: #de1f21; }
+  .bg-product-red-own:before {
+    -webkit-box-shadow: 10px 0 25px rgba(231, 9, 123, 0.6);
+    box-shadow: 10px 0 25px rgba(231, 9, 123, 0.6); }
+
+.bg-product-blue-dark {
+  background-color: #344399; }
+  .bg-product-blue-dark:before {
+    -webkit-box-shadow: 10px 0 25px rgba(56, 72, 163, 0.6);
+    box-shadow: 10px 0 25px rgba(56, 72, 163, 0.6); }
+
+
+
+
+/*---------------- end header ------------------------*/
+
+
+/* --------------- footer -------------------------*/
+
+.logo-title-green {
+  font-size: 30px;
+  color:#45b01f;
+  font-family: 'Baloo Paaji', cursive;
+  line-height: .7; }
+
+/* --------------- end footer -------------------------*/
+
+
+/* ----------------- main section ------------------*/
+
+
+.white-color{
+  color: white;
+}
+
+.heading-sup-title-own{
+  color:white;
+}
+
+.btn--greenmars-bg {
+  background-color: #45b01f; }
+  .btn--red.btn--with-shadow:after {
+    -webkit-box-shadow: 10px 0 30px 0 rgba(255, 49, 51, 0.5);
+    box-shadow: 10px 0 30px 0 rgba(255, 49, 51, 0.5); }

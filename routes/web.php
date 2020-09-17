@@ -22,7 +22,7 @@ Route::get('/mayorista','MainController@mayoristaCliente');
 
 Route::get('/distribuidor','MainController@mayoristaDistribuidor');
 
-Route::get('/ormiga','MainController@ormiga');
+Route::get('/hormiga','MainController@ormiga');
 
 Route::get('/aboutUs','MainController@aboutUs');
 

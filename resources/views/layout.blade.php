@@ -6,6 +6,7 @@
 	<title>GreenMars Company</title>
 
 	<link rel="stylesheet" type="text/css" href="{{ asset ('css/theme-styles.css') }}">
+	<link rel="stylesheet" type="text/css" href="{{ asset ('css/style.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset ('css/blocks.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset ('css/widgets.css') }}">
 	<link rel="stylesheet" type="text/css" href="{{ asset ('css/plugins/ion.rangeSlider.css')}}">
