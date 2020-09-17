@@ -860,7 +860,7 @@ div:hover > .btn-reverse-bg-green {
     -ms-transform: translate(0, -50%);
     transform: translate(0, -50%); }
 
-.main-slider-bg-light .with-decoration .first-decoration, .main-slider-bg-light .with-decoration .second-decoration {
+.main-slider--light .with-decoration .first-decoration, .main-slider-bg-light .with-decoration .second-decoration {
   fill: #45b01f; }
 
 .background-contain {

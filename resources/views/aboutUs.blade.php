@@ -16,16 +16,16 @@
 					<div class="col-lg-7 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module-img-content medium-padding100">
 							<div class="crumina-module crumina-heading">
-								<h6 class="heading-sup-title">GreenMars Company</h6>
+								<h6 class="heading-sup-title green-mars">GreenMars Company</h6>
 								<h3 class="heading-title">Bienvenido a
 									<span class="c-primary">GreenMars!</span> 
 									Nosotros creamos aplicaciones de alta confiabilidad para hacer tu vida mejor.
 								</h3>
-								<div class="h6 heading-text">Descubre todas nuestras aplicaiones!</div>
+								<div class="h6 heading-text">Descubre nuestras aplicaciones!</div>
 							</div>
 
 							<a href="{{url('/ourApps')}}" class="btn btn-border btn--with-shadow c-primary">
-								Nuestras Apps
+								Proyectos
 							</a>
 							<!-- 
 							<a href="15_pricing_tables.html" class="btn btn--green btn--with-shadow">
@@ -55,31 +55,24 @@
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h5 class="order-number">01.</h5>
-						<h3 class="h5 info-box-title">Quines somos?</h3>
-						<p class="info-box-text">Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse
-							molestie consequat, vel illum dolore eu feugiat nulla facilisis.
-						</p>
+						<h3 class="h5 info-box-title green-mars">Misión</h3>
+						<p class="info-box-text">Somos una empresa enfocada en brindar servicios y desarrollar soluciones en diversos rubros , para mejorar el estilo de vida de las personas ,empresarios y emprendedores en nuestro territorio nacional, usando nuevas tecnologías de la información para potenciar sus objetivos , facilitar la comodidad de sus tareas y ayudar a su crecimiento.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h5 class="order-number">02.</h5>
-						<h3 class="h5 info-box-title">¿Qué hacemos?</h3>
-						<p class="info-box-text">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
-							lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram,
-							anteposuerit litterarum formas humanitatis per.
-						</p>
+						<h3 class="h5 info-box-title green-mars">Visión</h3>
+						<p class="info-box-text">Consolidar y expandir nuestra empresa en sus distintos servicios, proyectos y potenciar el emprendimiento peruano.</p>
 					</div>
 				</div>
 
 				<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h5 class="order-number">03.</h5>
-						<h3 class="h5 info-box-title">¿Por qué desarrollamos Apps?</h3>
-						<p class="info-box-text">Mirum est notare quam littera gothica, quam nunc putamus parum claram,
-							anteposuerit litterarum formas humanitatis per.
-						</p>
+						<h3 class="h5 info-box-title green-mars">¿Qué hacemos?</h3>
+						<p class="info-box-text">Empresa dedicada diseñar plataformas web, móviles especialmente para impulsar el crecimiento de negocios.</p>
 					</div>
 				</div>
 			</div>
@@ -91,12 +84,12 @@
 
 	<!-- Info Boxes -->
 
-	<section class="crumina-module crumina-module-slider bg-blue-lighteen medium-padding100">
+	<section class="crumina-module crumina-module-slider .bg-blue-lighteen-about-us medium-padding100">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-12 col-sm-offset-0">
 					<div class="crumina-module crumina-heading align-center">
-						<h2 class="heading-title">Short Story About Our Company</h2>
+						<h2 class="heading-title h2-aboutUs">Nuestra Historia <span class="c-primary">GreenMars Company</span></h2>
 					</div>
 				</div>
 
@@ -226,17 +219,17 @@
 				<div class="crumina-module crumina-module-img-bottom">
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-heading">
-							<h6 class="heading-sup-title">Our Works</h6>
-							<h2 class="heading-title">Let Everyone Know Why We are the Best</h2>
-							<div class="heading-text">Mirum est notare quam littera gothica, quam nunc putamus parum claram,
-								anteposuerit litterarum formas humanitatis per.
+							<h6 class="heading-sup-title green-mars">Nuestros proyectos</h6>
+							<h2 class="heading-title">Conoce más acerca de nuestro proyectos</h2>
+							<div class="heading-text">
+								Explora nuestras aplicaciones y y aprovecha sus grandes beneficios
 							</div>
 						</div>
 					</div>
 
 					<div class="col-lg-3 col-lg-offset-3 col-md-12 col-sm-12 col-sm-offset-0">
-						<a href="04_works.html" class="btn btn-border btn--with-shadow c-primary mb30">
-							All Works
+						<a href="{{url('/ourApps')}}l" class="btn btn-border btn--with-shadow c-primary mb30">
+							Proyectos
 						</a>
 					</div>
 				</div>
@@ -355,242 +348,7 @@
 
 	<!-- Testimonial Slider -->
 
-	<section class="crumina-module crumina-module-slider background-contain bg-16 bg-blue-lighteen pt100">
-		<div class="container">
-			<div class="row">
-				<div class="crumina-module crumina-module-img-bottom">
-					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-						<img class="img-bottom" src="img/man2.png" alt="man">
-					</div>
-
-					<div class="col-lg-8 col-lg-offset-1 col-md-12 col-sm-12 col-xs-12">
-						<div class="row">
-							<div class="col-lg-8 col-md-8 col-sm-8 col-xs-12">
-								<div class="crumina-module-img-content">
-									<div class="crumina-module crumina-heading">
-										<h2 class="heading-title">What Our Customers Say about Utouch app</h2>
-									</div>
-								</div>
-							</div>
-							<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-								<div class="swiper-container top-navigation" data-show-items="2">
-									<div class="swiper-wrapper">
-
-										<div class="swiper-slide">
-											<div class="col-lg-12 col-md-12 col-sm-12">
-												<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
-													<div class="author-info-wrap">
-														<div class="testimonial-img-author">
-															<img src="img/author2.png" alt="author">
-														</div>
-														<div class="author-info">
-															<a href="#" class="h6 author-name">Chris Miller</a>
-															<div class="author-company">Student, 23 years old</div>
-														</div>
-													</div>
-
-													<h6 class="testimonial-text">
-														Qest etiam processus dynamicus, qui sequitur mutationem.
-													</h6>
-
-													<ul class="rait-stars">
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star-half-empty">
-																	<use xlink:href="#utouch-icon-star-half-empty"></use>
-																</svg>
-															</a>
-														</li>
-													</ul>
-
-												</div>
-
-											</div>
-										</div>
-
-										<div class="swiper-slide">
-											<div class="col-lg-12 col-md-12 col-sm-12">
-												<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
-													<div class="author-info-wrap">
-														<div class="testimonial-img-author">
-															<img src="img/author3.png" alt="author">
-														</div>
-														<div class="author-info">
-															<a href="#" class="h6 author-name">Susan Meyer</a>
-															<div class="author-company">Student, 20 years old</div>
-														</div>
-													</div>
-
-													<h6 class="testimonial-text">
-														Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius
-														per seacula quarta decima decima.
-													</h6>
-
-													<ul class="rait-stars">
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-													</ul>
-
-												</div>
-
-											</div>
-										</div>
-
-										<div class="swiper-slide">
-											<div class="col-lg-12 col-md-4 col-sm-12">
-												<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
-													<div class="author-info-wrap">
-														<div class="testimonial-img-author">
-															<img src="img/author4.png" alt="author">
-														</div>
-														<div class="author-info">
-															<a href="#" class="h6 author-name">Doe Simpson</a>
-															<div class="author-company">Student, 23 years old</div>
-														</div>
-													</div>
-
-													<h6 class="testimonial-text">
-														Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium.
-													</h6>
-
-													<ul class="rait-stars">
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star">
-																	<use xlink:href="#utouch-icon-star"></use>
-																</svg>
-															</a>
-														</li>
-														<li>
-															<a href="#">
-																<svg class="utouch-icon utouch-icon-star-half-empty">
-																	<use xlink:href="#utouch-icon-star-half-empty"></use>
-																</svg>
-															</a>
-														</li>
-													</ul>
-
-												</div>
-
-											</div>
-										</div>
-
-									</div>
-
-									<!--Prev next buttons-->
-
-									<div class="btn-slider-wrap navigation-top-right">
-
-										<div class="btn-prev">
-											<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1">
-												<use xlink:href="#utouch-icon-arrow-left-1"></use>
-											</svg>
-											<svg class="utouch-icon utouch-icon-arrow-left1">
-												<use xlink:href="#utouch-icon-arrow-left1"></use>
-											</svg>
-										</div>
-
-										<div class="btn-next">
-											<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
-												<use xlink:href="#utouch-icon-arrow-right-1"></use>
-											</svg>
-											<svg class="utouch-icon utouch-icon-arrow-right1">
-												<use xlink:href="#utouch-icon-arrow-right1"></use>
-											</svg>
-										</div>
-
-									</div>
-								</div>
-							</div>
-						</div>
-					</div>
-				</div>
-			</div>
-		</div>
-
-	</section>
+	
 
 	<!-- ... end Testimonial Slider -->
 
@@ -602,7 +360,7 @@
 			<div class="row">
 				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading align-center">
-						<h2 class="heading-title">Meet Our Professional Team</h2>
+						<h2 class="heading-title green-mars">Conoce a nuestro equipo de profesionales</h2>
 						<div class="heading-text">Mirum est notare quam littera gothica, quam nunc putamus parum claram,
 							anteposuerit litterarum formas humanitatis per.
 						</div>
@@ -621,7 +379,7 @@
 
 								<div class="teammembers-item-prof">Manager</div>
 
-								<a href="#" class="h5 teammembers-item-name">Britney Simpson</a>
+								<a href="#" class="h5 teammembers-item-name">Yhomira Alexandra</a>
 
 								<p>Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt est etiam.</p>
 

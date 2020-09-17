@@ -78,3 +78,20 @@
   .btn--red.btn--with-shadow:after {
     -webkit-box-shadow: 10px 0 30px 0 rgba(255, 49, 51, 0.5);
     box-shadow: 10px 0 30px 0 rgba(255, 49, 51, 0.5); }
+
+
+
+/*-------------------end main section -------------------*/
+
+
+/*-------- aboutUs section --------------*/  
+
+.bg-blue-lighteen-about-us {
+  background-color: #000000; }
+
+
+.h2-aboutUs{
+  font-size: 30px;
+}  
+
+/*-------- end aboutUs section --------------*/  
