@@ -21,7 +21,7 @@
 						</div>
 					</div>
 
-					<p>Es una empresa cusqueña dedicada al desarrrollo de aplicaiones para las distintas plataformas de sistemas oeprativos. siempre estamos innovando. creando nuevas soluciones.
+					<p class="color-text-green">Es una empresa cusqueña dedicada al desarrrollo de aplicaiones para las distintas plataformas de sistemas oeprativos. siempre estamos innovando. creando nuevas soluciones.
 					</p>
 
 					<a href="02_company.html" class="learn-more">Conocer mas acerca de  <span>GreenMars Company</span> </a>
@@ -35,7 +35,7 @@
 					<h5 class="widget-title">Userful Links</h5>
 					<ul class="list list--primary">
 						<li>
-							<a href="index.html">Inicio</a>
+							<a href="index.html" class="color-text-green">Inicio</a>
 							<svg class="utouch-icon utouch-icon-arrow-right">
 								<use xlink:href="#utouch-icon-arrow-right"></use>
 							</svg>

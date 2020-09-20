@@ -56,7 +56,7 @@
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h5 class="order-number">01.</h5>
 						<h3 class="h5 info-box-title green-mars">Misión</h3>
-						<p class="info-box-text">Somos una empresa enfocada en brindar servicios y desarrollar soluciones en diversos rubros , para mejorar el estilo de vida de las personas ,empresarios y emprendedores en nuestro territorio nacional, usando nuevas tecnologías de la información para potenciar sus objetivos , facilitar la comodidad de sus tareas y ayudar a su crecimiento.</p>
+						<p class="info-box-text color-text-green">Somos una empresa enfocada en brindar servicios y desarrollar soluciones en diversos rubros , para mejorar el estilo de vida de las personas ,empresarios y emprendedores en nuestro territorio nacional, usando nuevas tecnologías de la información para potenciar sus objetivos , facilitar la comodidad de sus tareas y ayudar a su crecimiento.</p>
 					</div>
 				</div>
 
@@ -64,7 +64,7 @@
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h5 class="order-number">02.</h5>
 						<h3 class="h5 info-box-title green-mars">Visión</h3>
-						<p class="info-box-text">Consolidar y expandir nuestra empresa en sus distintos servicios, proyectos y potenciar el emprendimiento peruano.</p>
+						<p class="info-box-text color-text-green">Consolidar y expandir nuestra empresa en sus distintos servicios, proyectos y potenciar el emprendimiento peruano.</p>
 					</div>
 				</div>
 
@@ -72,7 +72,7 @@
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h5 class="order-number">03.</h5>
 						<h3 class="h5 info-box-title green-mars">¿Qué hacemos?</h3>
-						<p class="info-box-text">Empresa dedicada diseñar plataformas web, móviles especialmente para impulsar el crecimiento de negocios.</p>
+						<p class="info-box-text color-text-green">Empresa dedicada diseñar plataformas web, móviles especialmente para impulsar el crecimiento de negocios.</p>
 					</div>
 				</div>
 			</div>
@@ -89,7 +89,7 @@
 			<div class="row">
 				<div class="col-lg-4 col-lg-offset-4 col-md-4 col-md-offset-4 col-sm-12 col-sm-offset-0">
 					<div class="crumina-module crumina-heading align-center">
-						<h2 class="heading-title h2-aboutUs">Nuestra Historia <span class="c-primary">GreenMars Company</span></h2>
+						<h2 class="heading-title h2-aboutUs color-text-green">Nuestra Historia <span class="c-primary">GreenMars Company</span></h2>
 					</div>
 				</div>
 
@@ -108,8 +108,8 @@
 
 									<div class="info-box-content">
 										<h6 class="timeline-year c-primary">2013</h6>
-										<a href="#" class="h6 info-box-title">Claritas est processus</a>
-										<p class="info-box-text">Wisi enim ad minim veniam, quis nostrud exerci tation
+										<a href="#" class="h6 info-box-title green-mars">Claritas est processus</a>
+										<p class="info-box-text color-text-green">Wisi enim ad minim veniam, quis nostrud exerci tation
 											qui nunc nobis videntur parum clari.
 										</p>
 									</div>
@@ -128,9 +128,9 @@
 									</div>
 
 									<div class="info-box-content">
-										<h6 class="timeline-year c-orange">2015</h6>
-										<a href="#" class="h6 info-box-title">Typi non claritatem</a>
-										<p class="info-box-text">Mirum est notare quam littera gothica, quam nunc putamus
+										<h6 class="timeline-year c-primary">2015</h6>
+										<a href="#" class="h6 info-box-title green-mars">Typi non claritatem</a>
+										<p class="info-box-text color-text-green">Mirum est notare quam littera gothica, quam nunc putamus
 											parum claram, anteposuerit lectores legere me lius quod ii legunt.
 										</p>
 									</div>
@@ -149,9 +149,9 @@
 									</div>
 
 									<div class="info-box-content">
-										<h6 class="timeline-year c-red">2016</h6>
-										<a href="#" class="h6 info-box-title">Eodem modo typi</a>
-										<p class="info-box-text">Investigationes demonstraverunt lectores legere me lius quod.
+										<h6 class="timeline-year c-primary">2016</h6>
+										<a href="#" class="h6 info-box-title green-mars">Eodem modo typi</a>
+										<p class="info-box-text color-text-green">Investigationes demonstraverunt lectores legere me lius quod.
 										</p>
 									</div>
 
@@ -169,9 +169,9 @@
 									</div>
 
 									<div class="info-box-content">
-										<h6 class="timeline-year c-green">2017</h6>
-										<a href="#" class="h6 info-box-title">Duis autem vel eum</a>
-										<p class="info-box-text">Ut wisi enim ad minim veniam, quis nostrud exerci tation
+										<h6 class="timeline-year c-primary">2017</h6>
+										<a href="#" class="h6 info-box-title green-mars">Duis autem vel eum</a>
+										<p class="info-box-text color-text-green">Ut wisi enim ad minim veniam, quis nostrud exerci tation
 											ullamcorper suscipit lobortis nisl ut aliquip.
 										</p>
 									</div>
@@ -220,8 +220,8 @@
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-heading">
 							<h6 class="heading-sup-title green-mars">Nuestros proyectos</h6>
-							<h2 class="heading-title">Conoce más acerca de nuestro proyectos</h2>
-							<div class="heading-text">
+							<h2 class="heading-title color-text-green">Conoce más acerca de nuestro proyectos</h2>
+							<div class="heading-text color-text-green">
 								Explora nuestras aplicaciones y y aprovecha sus grandes beneficios
 							</div>
 						</div>
@@ -361,9 +361,7 @@
 				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading align-center">
 						<h2 class="heading-title green-mars">Conoce a nuestro equipo de profesionales</h2>
-						<div class="heading-text">Mirum est notare quam littera gothica, quam nunc putamus parum claram,
-							anteposuerit litterarum formas humanitatis per.
-						</div>
+						<div class="heading-text color-text-green">Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per.</div>
 					</div>
 				</div>
 
@@ -377,11 +375,11 @@
 
 							<div class="teammember-content">
 
-								<div class="teammembers-item-prof">Manager</div>
+								<div class="teammembers-item-prof-own">Manager</div>
 
-								<a href="#" class="h5 teammembers-item-name">Yhomira Alexandra</a>
+								<a href="#" class="h5 teammembers-item-name green-mars">Yhomira Alexandra</a>
 
-								<p>Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt est etiam.</p>
+								<p class="color-text-green">Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt est etiam.</p>
 
 								<ul class="socials socials--round">
 									<li>
@@ -421,11 +419,11 @@
 
 							<div class="teammember-content">
 
-								<div class="teammembers-item-prof">Web Developer</div>
+								<div class="teammembers-item-prof-own">Web Developer</div>
 
-								<a href="#" class="h5 teammembers-item-name">Britney Simpson</a>
+								<a href="#" class="h5 teammembers-item-name green-mars">Britney Simpson</a>
 
-								<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
+								<p class="color-text-green">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
 
 								<ul class="socials socials--round">
 									<li>
@@ -467,11 +465,11 @@
 
 							<div class="teammember-content">
 
-								<div class="teammembers-item-prof">JS Developer</div>
+								<div class="teammembers-item-prof-own">JS Developer</div>
 
-								<a href="#" class="h5 teammembers-item-name">Christian Bush</a>
+								<a href="#" class="h5 teammembers-item-name green-mars">Christian Bush</a>
 
-								<p>Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
+								<p class="color-text-green">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.</p>
 
 								<ul class="socials socials--round">
 									<li>
@@ -510,11 +508,11 @@
 
 							<div class="teammember-content">
 
-								<div class="teammembers-item-prof">Copyrighter</div>
+								<div class="teammembers-item-prof-own">Copyrighter</div>
 
-								<a href="#" class="h5 teammembers-item-name">Jane Nguyen</a>
+								<a href="#" class="h5 teammembers-item-name green-mars">Jane Nguyen</a>
 
-								<p>Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt est etiam.</p>
+								<p class="color-text-green">Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt est etiam.</p>
 
 								<ul class="socials socials--round">
 									<li>

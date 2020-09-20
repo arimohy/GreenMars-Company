@@ -8,13 +8,13 @@
 
 	<!-- Main Slider -->
 
-	<div class="crumina-module crumina-module-slider container-full-width" style="background: black">
+	<div class="crumina-module crumina-module-slider container-full-width" >
 		<div class="swiper-container main-slider navigation-center-both-sides" data-effect="fade">
 
 			<!-- Additional required wrapper -->
 			<div class="swiper-wrapper">
 				<!-- Slides -->
-				<div class="swiper-slide bg-1 main-slider-bg-light" style="background: black;">
+				<div class="swiper-slide bg-1 main-slider-bg-light" >
 
 					<div class="container">
 						<div class="row table-cell">
@@ -35,7 +35,7 @@
 										</svg>
 
 									</h1>
-									<h6 class="slider-content-text" data-swiper-parallax="-200">Una empresa dedicada a desarrollo de aplicaiones para el servicios de la sociedad. muestras aplicaiones son muy eficientes y seguros.
+									<h6 class="slider-content-text color-text-green" data-swiper-parallax="-200">Una empresa dedicada a desarrollo de aplicaiones para el servicios de la sociedad. muestras aplicaiones son muy eficientes y seguros.
 									</h6>
 
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
@@ -67,11 +67,11 @@
 
 							<div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
 								<div class="slider-content align-both">
-									<h2 class="slider-content-title" data-swiper-parallax="-100">
+									<h2 class="slider-content-title color-text-green" data-swiper-parallax="-100">
 										<span class="c-primary">Mayorista</span>
 										Vive la experiencia de pedir desde tu casa
 									</h2>
-									<h6 class="slider-content-text" data-swiper-parallax="-200">Lorem No mas perdidas de tiempo en salir de compras. Descarga nuestra app y pide todo lo que necesitas.
+									<h6 class="slider-content-text color-text-green" data-swiper-parallax="-200">Lorem No mas perdidas de tiempo en salir de compras. Descarga nuestra app y pide todo lo que necesitas.
 									</h6>
 
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
@@ -110,9 +110,9 @@
 
 								<div class="slider-content align-both">
 
-									<h2 class="slider-content-title" data-swiper-parallax="-100">Mayorita Distribuidor</h2>
+									<h2 class="slider-content-title color-text-green" data-swiper-parallax="-100">Mayorita Distribuidor</h2>
 
-									<h6 class="slider-content-text" data-swiper-parallax="-200">Una aplicacion pensado para que vendas mas. publica tus products a traves de nustra aplicacion y aumenta tus ventas.
+									<h6 class="slider-content-text color-text-green" data-swiper-parallax="-200">Una aplicacion pensado para que vendas mas. publica tus products a traves de nustra aplicacion y aumenta tus ventas.
 									</h6>
 
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
@@ -191,8 +191,8 @@
 						</div>
 
 						<div class="info-box-content">
-							<a href="#" class="h5 info-box-title">Online Shopping</a>
-							<p class="info-box-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
+							<a href="#" class="h5-own info-box-title-green">Online Shopping</a>
+							<p class="info-box-text color-text-green">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
 								nibh euismod tincidunt ut laoreet dolore magna aliquam.
 							</p>
 						</div>
@@ -218,8 +218,8 @@
 						</div>
 
 						<div class="info-box-content">
-							<a href="#" class="h5 info-box-title">Multimedia Archives</a>
-							<p class="info-box-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
+							<a href="#" class="h5-own info-box-title-green">Multimedia Archives</a>
+							<p class="info-box-text color-text-green">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
 								nibh euismod tincidunt ut laoreet dolore magna aliquam.
 							</p>
 						</div>
@@ -245,8 +245,8 @@
 						</div>
 
 						<div class="info-box-content">
-							<a href="#" class="h5 info-box-title">Quick Settings</a>
-							<p class="info-box-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
+							<a href="#" class="h5-own info-box-title-green">Quick Settings</a>
+							<p class="info-box-text color-text-green">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
 								nibh euismod tincidunt ut laoreet dolore magna aliquam.
 							</p>
 						</div>
@@ -323,10 +323,10 @@
 								</div>
 							</div>
 							<div class="col-lg-6 col-lg-offset-1 col-md-7 col-md-offset-0 col-sm-12 col-xs-12">
-								<div class="crumina-module crumina-heading custom-color c-white">
-									<h6 class="heading-sup-title">Apps</h6>
-									<h2 class="heading-title">Mayorista Distribuidor</h2>
-									<div class="heading-text">Mayorista Disitribuidor es una aplicacion pensado para las personas que tienen un negocio y quieren incrementar sus ventas. Con esta Aplicacion puede recibir pedidos de muchos usuarios. venda mas y afiliate a nuestra plataforma de negocio. <br>
+								<div class="crumina-module crumina-heading custom-color c-mayorista">
+									<h6 class="heading-sup-title " >Apps</h6>
+									<h2 class="heading-title mayorista">Mayorista Distribuidor</h2>
+									<div class="heading-text mayorista">Mayorista Disitribuidor es una aplicacion pensado para las personas que tienen un negocio y quieren incrementar sus ventas. Con esta Aplicacion puede recibir pedidos de muchos usuarios. venda mas y afiliate a nuestra plataforma de negocio. <br>
 										descarga nuestra aplicacion
 									</div>
 								</div>
@@ -425,9 +425,9 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading">
-						<h6 class="heading-sup-title heading-sup-title-own">Mira nuestro video acerca de GreenMars Comapny</h6>
+						<h6 class="heading-sup-title heading-sup-title-own color-text-green">Mira nuestro video acerca de GreenMars Comapny</h6>
 						<h2 class="heading-title">Conoce como <span class="c-primary">GreenMars</span> Trabaja para ti</h2>
-						<p class="heading-text white-color">GreenMars es una empresa dedicada a desarrollar aplicaciones para el servicios de la sociedad.
+						<p class="heading-text color-text-green">GreenMars es una empresa dedicada a desarrollar aplicaciones para el servicios de la sociedad.
 						</p>
 					</div>
 					<a href="{{url('/aboutUs')}}" class="btn btn-small btn--icon-right btn-border btn--with-shadow c-primary">
@@ -478,19 +478,19 @@
 							</div>
 							<div class="info-box-content">
 								<h5 class="info-box-title green-mars"><a href="{{url('/')}}">GreenMars</a> </h5>
-								<p class="info-box-text">Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+								<p class="info-box-text color-text-green">Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
 									tincidunt.
 								</p>
 							</div>
 						</div>
 
 						<div class="crumina-module crumina-info-box info-box--standard-round icon-right negative-margin-right150">
-							<div class="info-box-image">
+							<div class="info-box-image mayorista-bg" style="background: #2979ff;">
 								<img src="svg-icons/pictures.svg" alt="chat" class="utouch-icon">
 							</div>
-							<div class="info-box-content">
+							<div class="info-box-content ">
 								<h5 class="info-box-title mayorista"><a href="{{url('/mayorista')}}"> Mayorista</a></h5>
-								<p class="info-box-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+								<p class="info-box-text color-text-green">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
 									nonummy nibh euismod.
 								</p>
 							</div>
@@ -511,19 +511,19 @@
 							</div>
 							<div class="info-box-content">
 								<h5 class="info-box-title mayorista-cliente"><a href="{{ url('/mayorista')}}"> Mayorista Cliente</a></h5>
-								<p class="info-box-text">Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+								<p class="info-box-text color-text-green">Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
 									tincidunt.
 								</p>
 							</div>
 						</div>
 
 						<div class="crumina-module crumina-info-box info-box--standard-round negative-margin-left150">
-							<div class="info-box-image">
+							<div class="info-box-image" style="background: #ff1600;">
 								<img src="svg-icons/calendar.svg" alt="chat" class="utouch-icon">
 							</div>
 							<div class="info-box-content">
 								<h5 class="info-box-title hormiga"><a href="{{url('/hormiga')}}">Hormiga</a></h5>
-								<p class="info-box-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
+								<p class="info-box-text color-text-green">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
 									nonummy euismod.
 								</p>
 							</div>
@@ -550,7 +550,7 @@
 							<div class="counter-numbers counter c-yellow">
 								<span data-speed="2000" data-refresh-interval="3" data-to="7564" data-from="2">7564</span>
 							</div>
-							<h5 class="counter-title">Likes</h5>
+							<h5 class="counter-title-own  color-text-green">Likes</h5>
 						</div> 
 					</div>
 					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
@@ -558,7 +558,7 @@
 							<div class="counter-numbers counter c-yellow">
 								<span data-speed="2000" data-refresh-interval="3" data-to="1231" data-from="2">1231</span>
 							</div>
-							<h5 class="counter-title">Distribuidores afiliados</h5>
+							<h5 class="counter-title-own color-text-green">Distribuidores afiliados</h5>
 						</div> 
 					</div>
 					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
@@ -566,7 +566,7 @@
 							<div class="counter-numbers counter c-yellow">
 								<span data-speed="2000" data-refresh-interval="3" data-to="9614" data-from="2">9614</span>
 							</div>
-							<h5 class="counter-title">Usuarios Activos</h5>
+							<h5 class="counter-title-own color-text-green">Usuarios Activos</h5>
 						</div> 
 					</div>
 					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
@@ -575,13 +575,13 @@
 								<span data-speed="2000" data-refresh-interval="3" data-to="19237" data-from="2">19237</span>
 								
 							</div>
-							<h5 class="counter-title">Descargas</h5>
+							<h5 class="counter-title-own color-text-green">Descargas</h5>
 						</div>
 					</div>
 
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-						<h5 class="c-white">Mayorista es una gran oportunidad para crecer</h5>
-						<p class="c-semitransparent-white">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy euismod.</p>
+						<h5 class="green-mars">Mayorista es una gran oportunidad para crecer</h5>
+						<p class=" color-text-green">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy euismod.</p>
 					</div>
 
 				</div>
@@ -607,8 +607,8 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading">
-						<h6 class="heading-sup-title">Screenshots</h6>
-						<h2 class="heading-title">Beautiful interface</h2>
+						<h6 class="heading-sup-title"><span class="c-primary">GreenMars</span></h6>
+						<h2 class="heading-title">Nuestras Experiencias con nuestros clientes</h2>
 						<p class="heading-text">Claritas est etiam processus dynamicus, qui sequitur mutationem
 							consuetudium lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram,
 							anteposuerit litterarum formas humanitatis per est usus legentis in iis qui facit eorum

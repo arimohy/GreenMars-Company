@@ -9,17 +9,25 @@
   color:#2979ff;
 }
 
+.mayorista-bg{
+  background:#2979ff; 
+}
+
 .mayorista-cliente{
   color:#ffffff;
 }
 
 .hormiga{
-  color: red;
+  color: #ff1600;
 }
 
 
 .color-black-bg{
    background-color: #000000;
+}
+
+.color-text-green{
+  color:  #ebe1c9;
 }
 
 /*-------------end tools ----------------------*/
@@ -59,6 +67,14 @@
   font-family: 'Baloo Paaji', cursive;
   line-height: .7; }
 
+
+  .crumina-teammembers-item .teammembers-item-prof-own {
+  text-transform: uppercase;
+  font-size: 14px;
+  color: #45b01f;
+  font-weight: 700;
+  margin-bottom: 17px; }
+
 /* --------------- end footer -------------------------*/
 
 
@@ -79,7 +95,31 @@
     -webkit-box-shadow: 10px 0 30px 0 rgba(255, 49, 51, 0.5);
     box-shadow: 10px 0 30px 0 rgba(255, 49, 51, 0.5); }
 
+.h5-own {
+  margin: .5em 0;
+  font-size: 24px;
+  line-height: 1.3em;
+  font-weight: 700;
+  color: #ebe1c9;
+  font-family: "Nunito", Arial, "Helvetica Neue", Helvetica, sans-serif;
+  letter-spacing: 0.02em; }
 
+   .info-box--standard-hover:hover .info-box-title-green {
+    color: #45b01f; }
+
+        .more-arrow:hover .btn-next-own .utouch-icon {
+      fill: #45b01f; }
+
+
+.c-mayorista{
+  color: #2979ff;
+}
+
+.crumina-counter-item .counter-title-own {
+  color: #ebe1c9;
+  margin: 0;
+  line-height: 1.1;
+  font-weight: 700; }
 
 /*-------------------end main section -------------------*/
 

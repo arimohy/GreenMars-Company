@@ -49,25 +49,70 @@
 
 	<!-- Skew-row -->
 
-	<section class="medium-padding120">
+		<section class="crumina-module crumina-module-slider medium-padding100 bg-primary-color">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
-					<div class="crumina-module crumina-heading">
-						<h5 class="heading-title">Investigationes demonstraverunt lectores legere me lius</h5>
-						<div class="heading-text">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
-							lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit
-							litterarum formas humanitatis per.
+					<div class="swiper-container" data-effect="fade">
+						<div class="swiper-wrapper">
+							<div class="swiper-slide">
+								<img src="img/slides3.png" alt="image" data-swiper-parallax="-200">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/slides3.png" alt="image" data-swiper-parallax="-200">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/slides3.png" alt="image" data-swiper-parallax="-200">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/slides3.png" alt="image" data-swiper-parallax="-200">
+							</div>
+							
 						</div>
 					</div>
 				</div>
-				<div class="col-lg-5 col-lg-offset-2 col-md-5 col-md-offset-2 col-sm-12 col-xs-12">
-					<div class="crumina-module crumina-heading">
-						<h5 class="heading-title">Investigationes demonstraverunt lectores legere me lius</h5>
-						<div class="heading-text">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
-							lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit
-							litterarum formas humanitatis per.
+				<div class="col-lg-6 col-lg-offset-1 col-md-7 col-sm-12 col-xs-12">
+					<div class="slider-slides slider-slides--round-text">
+						<div class="slides-item">
+							<div class="number">1</div>
+							<div class="crumina-module crumina-heading custom-color c-white">
+								<h5 class="heading-title">Online Shopping</h5>
+								<div class="heading-text">Investigationes demonstraverunt lectores legere me lius quod nunc
+									putamus parum claram, anteposuerit litterarum.
+								</div>
+							</div>
 						</div>
+
+						<div class="slides-item">
+							<div class="number">1</div>
+							<div class="crumina-module crumina-heading custom-color c-white">
+								<h5 class="heading-title">Online Shopping</h5>
+								<div class="heading-text">Investigationes demonstraverunt lectores legere me lius quod nunc
+									putamus parum claram, anteposuerit litterarum.
+								</div>
+							</div>
+						</div>
+
+						<div class="slides-item slide-active">
+							<div class="number">2</div>
+							<div class="crumina-module crumina-heading custom-color c-white">
+								<h5 class="heading-title">Multimedia Archives</h5>
+								<div class="heading-text">Eodem modo typi, qui nunc nobis videntur parum clari, fiant
+									sollemnes in futurum qui sequitur mutationem.
+								</div>
+							</div>
+						</div>
+
+						<div class="slides-item">
+							<div class="number">3</div>
+							<div class="crumina-module crumina-heading custom-color c-white">
+								<h5 class="heading-title">Quick Settings</h5>
+								<div class="heading-text">Duis autem vel eum iriure dolor in hendrerit in vulputate velit
+									esse molestie consequat, vel illum dolore.
+								</div>
+							</div>
+						</div>
+
 					</div>
 				</div>
 			</div>
@@ -192,78 +237,152 @@
 
 	<!-- Skew-row Info Boxes-->
 
-	<section class="section-bg-skew bg-20 bg-rose medium-padding180 c-white">
+	<section class="medium-padding120">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-					<div class="crumina-module crumina-info-box info-box--classic" data-mh="box--classic">
-						<div class="info-box-image">
-							<img class="utouch-icon" src="svg-icons/smartphone.svg" alt="smartphone">
+				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+
+					<div class="crumina-module crumina-heading">
+						<h2 class="heading-title">Preguntas frecuentes acerca de 
+							<span class="c-primary">Mayorista Cliente</span> </h2>
+					</div>
+
+					<div id="accordion" class="crumina-module crumina-accordion">
+						<div class="card accordion-panel">
+							<div class="card-header panel-heading" id="headingOne">
+								<button class="btn-link accordion-heading" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+									<span class="icons">
+										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
+										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
+									</span>
+									<span class="title">Claritas est etiam processus dynamicus</span>
+								</button>
+
+							</div>
+
+							<div id="collapseOne" class="panel-collapse collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+								<div class="card-body">
+									<div class="panel-info">
+										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+										tincidunt ut laoreet dolore magna aliquam erat volutpat odio dignissim qui blandit.
+									</div>
+								</div>
+							</div>
 						</div>
-						<div class="info-box-content">
-							<h5 class="info-box-title">Online Shopping</h5>
-							<p class="info-box-text">Investigationes demonstraverunt lectores legere me lius quod.</p>
+						<div class="card accordion-panel">
+							<div class="card-header panel-heading" id="headingOne">
+								<button class="btn-link accordion-heading" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+									<span class="icons">
+										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
+										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
+									</span>
+									<span class="title">Claritas est etiam processus dynamicus</span>
+								</button>
+
+							</div>
+
+							<div id="collapseOne" class="panel-collapse collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+								<div class="card-body">
+									<div class="panel-info">
+										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+										tincidunt ut laoreet dolore magna aliquam erat volutpat odio dignissim qui blandit.
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="card accordion-panel">
+							<div class="card-header panel-heading" id="headingOne">
+								<button class="btn-link accordion-heading" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+									<span class="icons">
+										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
+										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
+									</span>
+									<span class="title">Claritas est etiam processus dynamicus</span>
+								</button>
+
+							</div>
+
+							<div id="collapseOne" class="panel-collapse collapse show" aria-labelledby="headingOne" data-parent="#accordion">
+								<div class="card-body">
+									<div class="panel-info">
+										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+										tincidunt ut laoreet dolore magna aliquam erat volutpat odio dignissim qui blandit.
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="card accordion-panel">
+							<div class="card-header panel-heading" id="headingTwo">
+
+								<button class="btn-link accordion-heading collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+									<span class="icons">
+										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
+										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
+									</span>
+									<span class="title">Gectores legere me lius quod</span>
+								</button>
+
+							</div>
+
+							<div id="collapseTwo" class="panel-collapse collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+								<div class="card-body">
+									<div class="panel-info">
+										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+										tincidunt ut laoreet dolore magna aliquam erat volutpat odio dignissim qui blandit.
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="card accordion-panel">
+							<div class="card-header panel-heading" id="headingThree">
+
+								<button class="btn-link accordion-heading collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+									<span class="icons">
+										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
+										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
+									</span>
+									<span class="title">Investigationes demonstraverunt lectores legere</span>
+								</button>
+
+							</div>
+
+							<div id="collapseThree" class="panel-collapse collapse" aria-labelledby="headingThree" data-parent="#accordion">
+								<div class="card-body">
+									<div class="panel-info">
+										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+										tincidunt ut laoreet dolore magna aliquam erat volutpat odio dignissim qui blandit.
+									</div>
+								</div>
+							</div>
+						</div>
+						<div class="card accordion-panel">
+							<div class="card-header panel-heading" id="headingFour">
+								<button class="btn-link accordion-heading collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+									<span class="icons">
+										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
+										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
+									</span>
+									<span class="title">Mirum est notare quam littera</span>
+								</button>
+							</div>
+
+							<div id="collapseFour" class="panel-collapse collapse" aria-labelledby="headingFour" data-parent="#accordion">
+								<div class="card-body">
+									<div class="panel-info">
+										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+										tincidunt ut laoreet dolore magna aliquam erat volutpat odio dignissim qui blandit.
+									</div>
+								</div>
+							</div>
 						</div>
 					</div>
-				</div>
-				<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-					<div class="crumina-module crumina-info-box info-box--classic" data-mh="box--classic">
-						<div class="info-box-image">
-							<img class="utouch-icon" src="svg-icons/music%20(1).svg" alt="smartphone">
-						</div>
-						<div class="info-box-content">
-							<h5 class="info-box-title">Multimedia Archives</h5>
-							<p class="info-box-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>
-						</div>
-					</div>
+
 				</div>
 
-				<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-					<div class="crumina-module crumina-info-box info-box--classic" data-mh="box--classic">
-						<div class="info-box-image">
-							<img class="utouch-icon" src="svg-icons/settings%20(4).svg" alt="smartphone">
-						</div>
-						<div class="info-box-content">
-							<h5 class="info-box-title">Quick Settings</h5>
-							<p class="info-box-text">Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per.</p>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-					<div class="crumina-module crumina-info-box info-box--classic" data-mh="box--classic">
-						<div class="info-box-image">
-							<img class="utouch-icon" src="svg-icons/alarm.svg" alt="alarm">
-						</div>
-						<div class="info-box-content">
-							<h5 class="info-box-title">Push Notifications</h5>
-							<p class="info-box-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod.</p>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-					<div class="crumina-module crumina-info-box info-box--classic" data-mh="box--classic">
-						<div class="info-box-image">
-							<img class="utouch-icon" src="svg-icons/cloud-computing%20(1).svg" alt="alarm">
-						</div>
-						<div class="info-box-content">
-							<h5 class="info-box-title">Cloud Integration</h5>
-							<p class="info-box-text">Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per.</p>
-						</div>
-					</div>
-				</div>
-
-				<div class="col-lg-4 col-md-6 col-sm-6 col-xs-12">
-					<div class="crumina-module crumina-info-box info-box--classic" data-mh="box--classic">
-						<div class="info-box-image">
-							<img class="utouch-icon" src="svg-icons/chat1.svg" alt="alarm">
-						</div>
-						<div class="info-box-content">
-							<h5 class="info-box-title">Private Chat</h5>
-							<p class="info-box-text">Investigationes demonstraverunt lectores legere me lius quod.</p>
-						</div>
-					</div>
+				<div class="col-lg-5 col-lg-offset-1 col-md-6 col-sm-12 col-xs-12">
+					<img src="img/product-img2.png" alt="image">
 				</div>
 			</div>
 		</div>
