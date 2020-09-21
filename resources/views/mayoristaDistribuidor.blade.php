@@ -8,15 +8,15 @@
 
 	<!-- Skew-row -->
 
-	<section class="section-bg-skew bg-19 bg-violet pt180 not-top-element">
+	<section class="section-bg-skew bg-19 bg-white pt180 not-top-element">
 		<div class="container">
 			<div class="row">
 
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-					<div class="crumina-module crumina-heading custom-color c-white">
+					<div class="crumina-module crumina-heading custom-color mayorista">
 						<h6 class="heading-sup-title">Mayorista</h6>
 						<h2 class="h1 heading-title">Mayorista Distribuidor</h2>
-						<div class="heading-text">Es una aplicacion pensado para distribuidores. si quieres incrementar tus ventas, tener mas clientes y llegar a mas personas!! afiliate a nuestro sistema de negocio y vende más todos los productos de tu empresa o negocio.
+						<div class="heading-text">Mayorista distribuidor es una aplicación móvil que funciona como intermediario para conectar a los distribuidores con sus clientes.
 							<br>
 						Descarga nuestra apps desde
 						</div>
@@ -49,12 +49,15 @@
 
 	<!-- Skew-row -->
 
-		<section class="crumina-module crumina-module-slider medium-padding100 bg-primary-color">
+	<section class="section-bg-skew crumina-module-slider bg-blue-mayorista pt180 align-center">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
 					<div class="swiper-container" data-effect="fade">
 						<div class="swiper-wrapper">
+							<div class="swiper-slide">
+								<img src="img/slides3.png" alt="image" data-swiper-parallax="-200">
+							</div>
 							<div class="swiper-slide">
 								<img src="img/slides3.png" alt="image" data-swiper-parallax="-200">
 							</div>
@@ -76,40 +79,39 @@
 						<div class="slides-item">
 							<div class="number">1</div>
 							<div class="crumina-module crumina-heading custom-color c-white">
-								<h5 class="heading-title">Online Shopping</h5>
-								<div class="heading-text">Investigationes demonstraverunt lectores legere me lius quod nunc
-									putamus parum claram, anteposuerit litterarum.
-								</div>
+								<h5 class="heading-title">Vende más</h5>
+								<div class="heading-text">Obtén más clientes y asegura tus ventas.</div>
 							</div>
 						</div>
 
 						<div class="slides-item">
-							<div class="number">1</div>
+							<div class="number">2</div>
 							<div class="crumina-module crumina-heading custom-color c-white">
-								<h5 class="heading-title">Online Shopping</h5>
-								<div class="heading-text">Investigationes demonstraverunt lectores legere me lius quod nunc
-									putamus parum claram, anteposuerit litterarum.
-								</div>
+								<h5 class="heading-title">Precios cambiables</h5>
+								<div class="heading-text">Puedes modificar los precios a todos los productos que tengas.</div>
 							</div>
 						</div>
 
 						<div class="slides-item slide-active">
-							<div class="number">2</div>
+							<div class="number">3</div>
 							<div class="crumina-module crumina-heading custom-color c-white">
-								<h5 class="heading-title">Multimedia Archives</h5>
-								<div class="heading-text">Eodem modo typi, qui nunc nobis videntur parum clari, fiant
-									sollemnes in futurum qui sequitur mutationem.
-								</div>
+								<h5 class="heading-title">Interfaz</h5>
+								<div class="heading-text">Interfase amigable fácil de utilizar.</div>
 							</div>
 						</div>
 
 						<div class="slides-item">
-							<div class="number">3</div>
+							<div class="number">4</div>
 							<div class="crumina-module crumina-heading custom-color c-white">
-								<h5 class="heading-title">Quick Settings</h5>
-								<div class="heading-text">Duis autem vel eum iriure dolor in hendrerit in vulputate velit
-									esse molestie consequat, vel illum dolore.
-								</div>
+								<h5 class="heading-title">Ahorra tiempo</h5>
+								<div class="heading-text">La aplicación busca los proveedores mas cercanos a tí.</div>
+							</div>
+						</div>
+						<div class="slides-item">
+							<div class="number">5</div>
+							<div class="crumina-module crumina-heading custom-color c-white">
+								<h5 class="heading-title">Agrega a tus repartidores</h5>
+								<div class="heading-text">Registra la cantidad de tus repartidores</div>
 							</div>
 						</div>
 
@@ -117,6 +119,7 @@
 				</div>
 			</div>
 		</div>
+		<br><br>
 	</section>
 
 	<!-- ... end Skew-row -->
@@ -192,7 +195,7 @@
 
 	<!-- Skew-row -->
 
-	<section class="pt120">
+	<section class="pt120" style="background:#2979ff;">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 negative-margin-bottom80">
@@ -203,28 +206,33 @@
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pb80">
 					<div class="crumina-module crumina-heading">
-						<h3 class="heading-title">Como funciona mayorista distribuidor?</h3>
-						<div class="heading-text">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
+						<h3 class="heading-title white-text-color">Como funciona mayorista distribuidor?</h3>
+						<div class="heading-text white-text-color">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
 							lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit
 							litterarum formas humanitatis per.
 						</div>
 					</div>
-					<ul class="list list--standard">
+
+					<ul class="list list--standard white-text-color">
 						<li>
 							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-							<a href="#">Qolor sit amet, consectetuer;</a>
+							<a href="#">Crea tu cuenta de usuario como distribuidor.</a>
 						</li>
 						<li>
 							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-							<a href="#">Investigationes demonstraverunt;</a>
+							<a href="#">Agrega a tus repartidores.</a>
 						</li>
 						<li>
 							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-							<a href="#">Dam liber tempor cum soluta;</a>
+							<a href="#">Agrega tus productos.</a>
 						</li>
 						<li>
 							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-							<a href="#">Quarta decima et quinta.</a>
+							<a href="#">Aparecerá la ruta por la cual entregar el pedido.</a>
+						</li>
+						<li>
+							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+							<a href="#">Entrega tu producto.</a>
 						</li>
 					</ul>
 				</div>
@@ -237,17 +245,17 @@
 
 	<!-- Skew-row Info Boxes-->
 
-	<section class="medium-padding120">
+	<section class="medium-padding120" style="background:#2979ff; ">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 
 					<div class="crumina-module crumina-heading">
-						<h2 class="heading-title">Preguntas frecuentes acerca de 
+						<h2 class="heading-title white-text-color">Preguntas frecuentes acerca de 
 							<span class="c-primary">Mayorista Cliente</span> </h2>
 					</div>
 
-					<div id="accordion" class="crumina-module crumina-accordion">
+					<div id="accordion" class="crumina-module crumina-accordion ">
 						<div class="card accordion-panel">
 							<div class="card-header panel-heading" id="headingOne">
 								<button class="btn-link accordion-heading" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
@@ -269,54 +277,54 @@
 								</div>
 							</div>
 						</div>
-						<div class="card accordion-panel">
-							<div class="card-header panel-heading" id="headingOne">
-								<button class="btn-link accordion-heading" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-									<span class="icons">
-										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
-										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
-									</span>
-									<span class="title">Claritas est etiam processus dynamicus</span>
-								</button>
-
-							</div>
-
-							<div id="collapseOne" class="panel-collapse collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-								<div class="card-body">
-									<div class="panel-info">
-										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-										tincidunt ut laoreet dolore magna aliquam erat volutpat odio dignissim qui blandit.
-									</div>
-								</div>
-							</div>
-						</div>
-
-						<div class="card accordion-panel">
-							<div class="card-header panel-heading" id="headingOne">
-								<button class="btn-link accordion-heading" data-toggle="collapse" data-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-									<span class="icons">
-										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
-										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
-									</span>
-									<span class="title">Claritas est etiam processus dynamicus</span>
-								</button>
-
-							</div>
-
-							<div id="collapseOne" class="panel-collapse collapse show" aria-labelledby="headingOne" data-parent="#accordion">
-								<div class="card-body">
-									<div class="panel-info">
-										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-										tincidunt ut laoreet dolore magna aliquam erat volutpat odio dignissim qui blandit.
-									</div>
-								</div>
-							</div>
-						</div>
-
 						<div class="card accordion-panel">
 							<div class="card-header panel-heading" id="headingTwo">
+								<button class="btn-link accordion-heading" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+									<span class="icons">
+										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
+										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
+									</span>
+									<span class="title">Claritas est etiam processus dynamicus</span>
+								</button>
 
-								<button class="btn-link accordion-heading collapsed" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
+							</div>
+
+							<div id="collapseTwo" class="panel-collapse collapse show" aria-labelledby="headingTwo" data-parent="#accordion">
+								<div class="card-body">
+									<div class="panel-info">
+										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+										tincidunt ut laoreet dolore magna aliquam erat volutpat odio dignissim qui blandit.
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="card accordion-panel">
+							<div class="card-header panel-heading" id="headingThree">
+								<button class="btn-link accordion-heading" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+									<span class="icons">
+										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
+										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
+									</span>
+									<span class="title">Claritas est etiam processus dynamicus</span>
+								</button>
+
+							</div>
+
+							<div id="collapseThree" class="panel-collapse collapse show" aria-labelledby="headingThree" data-parent="#accordion">
+								<div class="card-body">
+									<div class="panel-info">
+										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
+										tincidunt ut laoreet dolore magna aliquam erat volutpat odio dignissim qui blandit.
+									</div>
+								</div>
+							</div>
+						</div>
+
+						<div class="card accordion-panel">
+							<div class="card-header panel-heading" id="headingFour">
+
+								<button class="btn-link accordion-heading collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
 									<span class="icons">
 										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
 										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
@@ -326,7 +334,7 @@
 
 							</div>
 
-							<div id="collapseTwo" class="panel-collapse collapse" aria-labelledby="headingTwo" data-parent="#accordion">
+							<div id="collapseFour" class="panel-collapse collapse" aria-labelledby="headingFour" data-parent="#accordion">
 								<div class="card-body">
 									<div class="panel-info">
 										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
@@ -336,9 +344,9 @@
 							</div>
 						</div>
 						<div class="card accordion-panel">
-							<div class="card-header panel-heading" id="headingThree">
+							<div class="card-header panel-heading" id="headingFive">
 
-								<button class="btn-link accordion-heading collapsed" data-toggle="collapse" data-target="#collapseThree" aria-expanded="true" aria-controls="collapseThree">
+								<button class="btn-link accordion-heading collapsed" data-toggle="collapse" data-target="#collapseFive" aria-expanded="true" aria-controls="collapseFive">
 									<span class="icons">
 										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
 										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
@@ -348,7 +356,7 @@
 
 							</div>
 
-							<div id="collapseThree" class="panel-collapse collapse" aria-labelledby="headingThree" data-parent="#accordion">
+							<div id="collapseFive" class="panel-collapse collapse" aria-labelledby="headingFive" data-parent="#accordion">
 								<div class="card-body">
 									<div class="panel-info">
 										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
@@ -358,8 +366,8 @@
 							</div>
 						</div>
 						<div class="card accordion-panel">
-							<div class="card-header panel-heading" id="headingFour">
-								<button class="btn-link accordion-heading collapsed" data-toggle="collapse" data-target="#collapseFour" aria-expanded="true" aria-controls="collapseFour">
+							<div class="card-header panel-heading" id="headingSix">
+								<button class="btn-link accordion-heading collapsed" data-toggle="collapse" data-target="#collapseSix" aria-expanded="true" aria-controls="collapseSix">
 									<span class="icons">
 										<svg class="utouch-icon utouch-icon-add"><use xlink:href="#utouch-icon-add"></use></svg>
 										<svg class="utouch-icon active utouch-icon-minus"><use xlink:href="#utouch-icon-minus"></use></svg>
@@ -368,7 +376,7 @@
 								</button>
 							</div>
 
-							<div id="collapseFour" class="panel-collapse collapse" aria-labelledby="headingFour" data-parent="#accordion">
+							<div id="collapseSix" class="panel-collapse collapse" aria-labelledby="headingSix" data-parent="#accordion">
 								<div class="card-body">
 									<div class="panel-info">
 										Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
@@ -393,13 +401,13 @@
 
 	<!-- Skew-row Screenshots-->
 
-	<section class="medium-padding120 align-center">
+	<section class="medium-padding120 align-center" style="background:#2979ff;  ">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 col-xs-12 mb30">
 					<div class="crumina-module crumina-heading">
-						<h6 class="heading-sup-title">Mayorista Distribuidor</h6>
-						<h2 class="heading-title">Diseños elegantes y muy deductivos</h2>
+						<h6 class="heading-sup-title white-text-color">Mayorista Distribuidor</h6>
+						<h2 class="heading-title white-text-color">Diseños elegantes y muy deductivos</h2>
 					</div>
 				</div>
 			</div>

@@ -220,9 +220,9 @@
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-heading">
 							<h6 class="heading-sup-title green-mars">Nuestros proyectos</h6>
-							<h2 class="heading-title color-text-green">Conoce más acerca de nuestro proyectos</h2>
+							<h2 class="heading-title color-text-green">Conoce más nuestro proyectos informáticos y tecnológicos!</h2>
 							<div class="heading-text color-text-green">
-								Explora nuestras aplicaciones y y aprovecha sus grandes beneficios
+								Explora nuestras aplicaciones y aprovecha sus grandes beneficios.
 							</div>
 						</div>
 					</div>
@@ -243,11 +243,11 @@
 										<img src="img/case1.jpg" alt="case">
 									</a>
 
-									<div class="square-colored bg-product-blue"></div>
+									<div class="square-colored bg-product-blue-mayorista"></div>
 									<div class="case-item-content">
-										<h5 class="title">Investigationes demonstraverunt lectores legere me legunt saepius</h5>
+										<h5 class="title">Mayorista. descubre todas las potencialidades de nuestra APP. </h5>
 										<a href="#" class="more-arrow white">
-											<span>View Case</span>
+											<span>Ver más</span>
 											<div class="btn-next">
 												<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
 													<use xlink:href="#utouch-icon-arrow-right-1"></use>
@@ -267,11 +267,11 @@
 										<img src="img/case2.jpg" alt="case">
 									</a>
 
-									<div class="square-colored bg-product-violet"></div>
+									<div class="square-colored bg-product-violet-distribuidor"></div>
 									<div class="case-item-content">
-										<h5 class="title">Mirum est notare quam littera gothica, quam nunc putamus parum</h5>
+										<h5 class=" mayorista">Mayorista distribuidor. vende más y genera grandes ganancias!</h5>
 										<a href="#" class="more-arrow white">
-											<span>View Case</span>
+											<span class="mayorista">Ver más</span>
 											<div class="btn-next">
 												<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
 													<use xlink:href="#utouch-icon-arrow-right-1"></use>
@@ -291,11 +291,11 @@
 										<img src="img/case1.jpg" alt="case">
 									</a>
 
-									<div class="square-colored bg-product-blue"></div>
+									<div class="square-colored bg-product-blue-own"></div>
 									<div class="case-item-content">
-										<h5 class="title">Investigationes demonstraverunt lectores legere me legunt saepius</h5>
+										<h5 class="title">Hormiga. Dedicada a impulsar la producción nacional.</h5>
 										<a href="#" class="more-arrow white">
-											<span>View Case</span>
+											<span>Ver más</span>
 											<div class="btn-next">
 												<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
 													<use xlink:href="#utouch-icon-arrow-right-1"></use>
@@ -317,9 +317,9 @@
 
 									<div class="square-colored bg-product-violet"></div>
 									<div class="case-item-content">
-										<h5 class="title">Mirum est notare quam littera gothica, quam nunc putamus parum</h5>
+										<h5 class="title">Rados. Bienes y Raices</h5>
 										<a href="#" class="more-arrow white">
-											<span>View Case</span>
+											<span>Ver más</span>
 											<div class="btn-next">
 												<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
 													<use xlink:href="#utouch-icon-arrow-right-1"></use>

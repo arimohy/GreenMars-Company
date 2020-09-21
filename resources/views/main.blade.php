@@ -71,7 +71,7 @@
 										<span class="c-primary">Mayorista</span>
 										Vive la experiencia de pedir desde tu casa
 									</h2>
-									<h6 class="slider-content-text color-text-green" data-swiper-parallax="-200">Lorem No mas perdidas de tiempo en salir de compras. Descarga nuestra app y pide todo lo que necesitas.
+									<h6 class="slider-content-text color-text-green" data-swiper-parallax="-200">No mas perdidas de tiempo en salir de compras. Descarga nuestra app y pide todo lo que necesitas.
 									</h6>
 
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
@@ -112,8 +112,7 @@
 
 									<h2 class="slider-content-title color-text-green" data-swiper-parallax="-100">Mayorita Distribuidor</h2>
 
-									<h6 class="slider-content-text color-text-green" data-swiper-parallax="-200">Una aplicacion pensado para que vendas mas. publica tus products a traves de nustra aplicacion y aumenta tus ventas.
-									</h6>
+									<h6 class="slider-content-text color-text-green" data-swiper-parallax="-200">Una aplicacion pensado para que vendas más. Publica tus productos a través de nustra aplicación y aumenta tus ventas.</h6>
 
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
 
@@ -426,9 +425,8 @@
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading">
 						<h6 class="heading-sup-title heading-sup-title-own color-text-green">Mira nuestro video acerca de GreenMars Comapny</h6>
-						<h2 class="heading-title">Conoce como <span class="c-primary">GreenMars</span> Trabaja para ti</h2>
-						<p class="heading-text color-text-green">GreenMars es una empresa dedicada a desarrollar aplicaciones para el servicios de la sociedad.
-						</p>
+						<h2 class="heading-title color-text-green">Conoce como <span class="c-primary">GreenMars</span> Trabaja para ti</h2>
+						<p class="heading-text color-text-green">GreenMars es una empresa dedicada al desarrollo proyectos informáticos y tecnológicos para el servicios de la sociedad.</p>
 					</div>
 					<a href="{{url('/aboutUs')}}" class="btn btn-small btn--icon-right btn-border btn--with-shadow c-primary">
 						<svg class="utouch-icon utouch-icon-arrow-right1">
@@ -478,9 +476,7 @@
 							</div>
 							<div class="info-box-content">
 								<h5 class="info-box-title green-mars"><a href="{{url('/')}}">GreenMars</a> </h5>
-								<p class="info-box-text color-text-green">Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-									tincidunt.
-								</p>
+								<p class="info-box-text color-text-green">Empresa dedicada diseñar plataformas web, móviles especialmente para impulsar el crecimiento de negocios.</p>
 							</div>
 						</div>
 
@@ -490,9 +486,7 @@
 							</div>
 							<div class="info-box-content ">
 								<h5 class="info-box-title mayorista"><a href="{{url('/mayorista')}}"> Mayorista</a></h5>
-								<p class="info-box-text color-text-green">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-									nonummy nibh euismod.
-								</p>
+								<p class="info-box-text color-text-green">Mayorista es una aplicación móvil que ayuda a las personas a encontrar productos de primera necesidad al por mayor de manera rápida lo que permite ahorrar tiempo y dinero.</p>
 							</div>
 						</div>
 					</div>
@@ -511,9 +505,7 @@
 							</div>
 							<div class="info-box-content">
 								<h5 class="info-box-title mayorista-cliente"><a href="{{ url('/mayorista')}}"> Mayorista Cliente</a></h5>
-								<p class="info-box-text color-text-green">Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod
-									tincidunt.
-								</p>
+								<p class="info-box-text color-text-green">Mayorista distribuidor es una aplicación móvil que funciona como intermediario para conectar a los distribuidores con sus clientes.</p>
 							</div>
 						</div>
 
@@ -523,9 +515,7 @@
 							</div>
 							<div class="info-box-content">
 								<h5 class="info-box-title hormiga"><a href="{{url('/hormiga')}}">Hormiga</a></h5>
-								<p class="info-box-text color-text-green">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-									nonummy euismod.
-								</p>
+								<p class="info-box-text color-text-green">Plataforma dedicada a impulsar la producción nacional. Es una ventana en la que el productor podrá venderle al Perú y al mundo.</p>
 							</div>
 						</div>
 					</div>
@@ -580,8 +570,8 @@
 					</div>
 
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-						<h5 class="green-mars">Mayorista es una gran oportunidad para crecer</h5>
-						<p class=" color-text-green">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy euismod.</p>
+						<h5 class="green-mars">GreenMars. Una oportunidad para crecer!</h5>
+						<p class=" color-text-green">Con nuestros aplicaciones tu negocio crece sin parar!</p>
 					</div>
 
 				</div>

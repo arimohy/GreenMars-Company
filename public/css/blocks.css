@@ -532,6 +532,9 @@ div:hover > .btn-reverse-bg-green {
 .bg-violet {
   background-color: #bb26f0; }
 
+.bg-white {
+  background-color: #ffffff; }
+
 .bg-black {
   background-color: #121921; }
 
@@ -542,7 +545,10 @@ div:hover > .btn-reverse-bg-green {
   background-color: #98d5ff; }
 
 .bg-blue-lighteen {
-  background-color: #ecf5fe; }
+  background-color: #ffffff; }
+
+.bg-blue-mayorista {
+  background-color: #2979ff; }
 
 .bg-orange {
   background-color: #EF6517; }

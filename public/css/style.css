@@ -30,6 +30,17 @@
   color:  #ebe1c9;
 }
 
+.bg-hormiga-color{
+  background:#ff1600; 
+}
+
+.bg-white-color{
+  background: #ffffff;
+}
+
+.white-text-color{
+  color: #ffffff;
+}
 /*-------------end tools ----------------------*/
 
 
@@ -53,7 +64,11 @@
     -webkit-box-shadow: 10px 0 25px rgba(56, 72, 163, 0.6);
     box-shadow: 10px 0 25px rgba(56, 72, 163, 0.6); }
 
+.bg-green-color {
+  background-color: #45b01f; }
 
+.bg-blue {
+  background-color: #0082d7; }
 
 
 /*---------------- end header ------------------------*/
@@ -133,5 +148,23 @@
 .h2-aboutUs{
   font-size: 30px;
 }  
+
+.bg-product-blue-own {
+  background-color: #ff1600; }
+  .bg-product-blue:before {
+    -webkit-box-shadow: 10px 0 25px rgba(0, 131, 255, 0.6);
+    box-shadow: 10px 0 25px rgba(0, 131, 255, 0.6); }
+
+.bg-product-blue-mayorista {
+  background-color: #2979ff; }
+  .bg-product-blue:before {
+    -webkit-box-shadow: 10px 0 25px rgba(0, 131, 255, 0.6);
+    box-shadow: 10px 0 25px rgba(0, 131, 255, 0.6); } 
+
+.bg-product-violet-distribuidor {
+  background-color: #ffffff; }
+  .bg-product-violet:before {
+    -webkit-box-shadow: 10px 0 25px rgba(187, 38, 240, 0.6);
+    box-shadow: 10px 0 25px rgba(187, 38, 240, 0.6); }   
 
 /*-------- end aboutUs section --------------*/  

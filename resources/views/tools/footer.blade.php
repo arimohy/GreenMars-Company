@@ -1,12 +1,12 @@
 <footer class="footer" id="site-footer">
 	<div class="header-lines-decoration">
-		<span class="bg-secondary-color"></span>
-		<span class="bg-blue"></span>
-		<span class="bg-blue-light"></span>
-		<span class="bg-orange-light"></span>
-		<span class="bg-red"></span>
-		<span class="bg-green"></span>
-		<span class="bg-secondary-color"></span>
+		<span class="bg-green-color"></span>
+		<span class="mayorista-bg"></span>
+		<span class="bg-hormiga-color"></span>
+		<span class="bg-white-color"></span>
+		<span class="bg-hormiga-color"></span>
+		<span class="mayorista-bg"></span>
+		<span class="bg-green-color"></span>
 	</div>
 
 	<div class="container">

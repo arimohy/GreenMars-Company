@@ -8,15 +8,15 @@
 
 	<!-- Skew-row -->
 
-	<section class="section-bg-skew bg-19 bg-violet pt180 not-top-element">
+	<section class="section-bg-skew bg-19 bg-blue-mayorista pt180 not-top-element">
 		<div class="container">
 			<div class="row">
 
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading custom-color c-white">
-						<h6 class="heading-sup-title">Mayorista</h6>
+						<h6 class="heading-sup-title white-text-color">Mayorista</h6>
 						<h2 class="h1 heading-title">Mayorista Cliente</h2>
-						<div class="heading-text">Es una aplicacion pensado para ti y tus necesidades. Puedes realiazar tus pedidos desde la comodidad de tu hogar, sin necesidad de salir.
+						<div class="heading-text">Mayorista es una aplicación móvil que ayuda a las personas a encontrar productos de primera necesidad al por mayor de manera rápida lo que permite ahorrar tiempo y dinero.
 							<br>
 						Descarga nuestra apps desde
 						</div>
@@ -49,25 +49,31 @@
 
 	<!-- Skew-row -->
 
-	<section class="medium-padding120">
+	<section class="medium-padding120" style="background: #ffffff;">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+				<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading">
-						<h5 class="heading-title">Investigationes demonstraverunt lectores legere me lius</h5>
-						<div class="heading-text">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
-							lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit
-							litterarum formas humanitatis per.
-						</div>
+						<h5 class="heading-title">Productos de acceso rápido</h5>
+						<div class="heading-text">Puedes tener acceso a todos los productos desde tu móvil.</div>
 					</div>
 				</div>
-				<div class="col-lg-5 col-lg-offset-2 col-md-5 col-md-offset-2 col-sm-12 col-xs-12">
+				<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading">
-						<h5 class="heading-title">Investigationes demonstraverunt lectores legere me lius</h5>
-						<div class="heading-text">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
-							lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit
-							litterarum formas humanitatis per.
-						</div>
+						<h5 class="heading-title">Precios económicos</h5>
+						<div class="heading-text">Los productos son vendidos al por mayor por lo que ahorras dinero.</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
+					<div class="crumina-module crumina-heading">
+						<h5 class="heading-title">Ahorra tiempo!</h5>
+						<div class="heading-text">La aplicación busca los proveedores más cercanos a tí.</div>
+					</div>
+				</div>
+				<div class="col-lg-3 col-lg-offset-0 col-md-3 col-md-offset-0 col-sm-12 col-xs-12">
+					<div class="crumina-module crumina-heading">
+						<h5 class="heading-title">Diversas Formas de pago</h5>
+						<div class="heading-text">Puedes pagar tu pedido ya sea al contado o de manera digital.</div>
 					</div>
 				</div>
 			</div>
@@ -79,7 +85,7 @@
 
 	<!-- Skew-row with sliders -->
 
-	<section class="section-bg-skew bg-11 bg-blue-lighteen pt180 align-center">
+	<section class="section-bg-skew bg-11 bg-blue-mayorista pt180 align-center">
 		<div class="container">
 			<div class="row">
 
@@ -139,15 +145,18 @@
 						</div>
 					</div>
 				</div>
+
 			</div>
 		</div>
+		<br><br>
+				<br>
 	</section>
 
 	<!-- ... end Skew-row with sliders -->
 
 	<!-- Skew-row -->
 
-	<section class="pt120">
+	<section class="pt120" style="background:#ffffff;">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 negative-margin-bottom80">
@@ -158,33 +167,62 @@
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pb80">
 					<div class="crumina-module crumina-heading">
-						<h3 class="heading-title">Como funciona mayorista?</h3>
-						<div class="heading-text">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
+						<h3 class="heading-title mayorista">Como funciona mayorista?</h3>
+						<div class="heading-text mayorista">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
 							lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit
 							litterarum formas humanitatis per.
 						</div>
 					</div>
-					<ul class="list list--standard">
+					<ul class="list list--standard mayorista">
 						<li>
 							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-							<a href="#">Qolor sit amet, consectetuer;</a>
+							<a href="#">Crea tu cuenta de usuario.</a>
 						</li>
 						<li>
 							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-							<a href="#">Investigationes demonstraverunt;</a>
+							<a href="#">Ingresa a la aplicación.</a>
 						</li>
 						<li>
 							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-							<a href="#">Dam liber tempor cum soluta;</a>
+							<a href="#">Escoge tu lugar de entrega en el mapa.</a>
 						</li>
 						<li>
 							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-							<a href="#">Quarta decima et quinta.</a>
+							<a href="#">Sigue la fecha para ver los productos.</a>
+						</li>
+						<li>
+							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+							<a href="#">Escoge tus productos que desees.</a>
+						</li>
+						<li>
+							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+							<a href="#">Presiona el carrito de compras.</a>
+						</li>
+						<li>
+							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+							<a href="#">Verifica los productos y escoge el método de pago.</a>
+						</li>
+						<li>
+							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+							<a href="#">Confirma pedido.</a>
+						</li>
+						<li>
+							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+							<a href="#">Espera la confirmación del proveedor.</a>
+						</li>
+						<li>
+							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+							<a href="#">Cuando aceptes veras el precio de tu pedido y el tiempo.</a>
+						</li>
+						<li>
+							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+							<a href="#">Espera tu pedido llegar.</a>
 						</li>
 					</ul>
 				</div>
 			</div>
 		</div>
+		<br><br>
 	</section>
 
 	<!-- ... end Skew-row -->
@@ -198,13 +236,13 @@
 
 	<!-- Skew-row Screenshots-->
 
-	<section class="medium-padding120 align-center">
+	<section class="medium-padding120 align-center" style="background: #2979ff;">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 col-xs-12 mb30">
 					<div class="crumina-module crumina-heading">
-						<h6 class="heading-sup-title">Mayorista</h6>
-						<h2 class="heading-title">Diseños elegantes y muy deductivos</h2>
+						<h6 class="heading-sup-title white-text-color">Mayorista</h6>
+						<h2 class="heading-title white-text-color">Diseños elegantes y muy deductivos</h2>
 					</div>
 				</div>
 			</div>
