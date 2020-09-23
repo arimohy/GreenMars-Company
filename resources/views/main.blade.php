@@ -313,7 +313,7 @@
 					</div>
 				</div>
 
-				<div class="swiper-slide bg-primary-color bg-5" data-mh="slide">
+				<div class="swiper-slide bg-primary-color bg-6" data-mh="slide">
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-4 col-lg-offset-1 col-md-5 col-md-offset-0 col-sm-12 col-xs-12">
@@ -475,7 +475,7 @@
 								<img src="svg-icons/chat.svg" alt="chat" class="utouch-icon">
 							</div>
 							<div class="info-box-content">
-								<h5 class="info-box-title green-mars"><a href="{{url('/')}}">GreenMars</a> </h5>
+								<h5 class="info-box-title green-mars"><a href="{{url('/')}}">MyJato</a> </h5>
 								<p class="info-box-text color-text-green">Empresa dedicada diseñar plataformas web, móviles especialmente para impulsar el crecimiento de negocios.</p>
 							</div>
 						</div>
@@ -592,7 +592,7 @@
 
 	<!-- Info Boxes -->
 
-	<section class="crumina-module crumina-module-slider bg-blue-lighteen background-contain bg-11 medium-padding100">
+	<section class="crumina-module crumina-module-slider bg-blue-mayorista background-contain bg-11 medium-padding100">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">

@@ -13,8 +13,8 @@
 			<div class="row">
 
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-					<div class="crumina-module crumina-heading custom-color c-white">
-						<h6 class="heading-sup-title white-text-color">Mayorista</h6>
+					<div class="crumina-module crumina-heading custom-color mayorista">
+						<h6 class="heading-sup-title mayorista">Mayorista</h6>
 						<h2 class="h1 heading-title">Mayorista Cliente</h2>
 						<div class="heading-text">Mayorista es una aplicación móvil que ayuda a las personas a encontrar productos de primera necesidad al por mayor de manera rápida lo que permite ahorrar tiempo y dinero.
 							<br>
@@ -42,6 +42,7 @@
 				</div>
 			</div>
 		</div>
+		<br><br>
 	</section>
 
 	<!-- ... end Skew-row -->
@@ -49,31 +50,31 @@
 
 	<!-- Skew-row -->
 
-	<section class="medium-padding120" style="background: #ffffff;">
+	<section class="medium-padding120" style="background: #2979ff;">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading">
-						<h5 class="heading-title">Productos de acceso rápido</h5>
-						<div class="heading-text">Puedes tener acceso a todos los productos desde tu móvil.</div>
+						<h5 class="heading-title c-white">Productos de acceso rápido</h5>
+						<div class="heading-text c-white">Puedes tener acceso a todos los productos desde tu móvil.</div>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading">
-						<h5 class="heading-title">Precios económicos</h5>
-						<div class="heading-text">Los productos son vendidos al por mayor por lo que ahorras dinero.</div>
+						<h5 class="heading-title c-white">Precios económicos</h5>
+						<div class="heading-text c-white">Los productos son vendidos al por mayor por lo que ahorras dinero.</div>
 					</div>
 				</div>
 				<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading">
-						<h5 class="heading-title">Ahorra tiempo!</h5>
-						<div class="heading-text">La aplicación busca los proveedores más cercanos a tí.</div>
+						<h5 class="heading-title c-white">Ahorra tiempo!</h5>
+						<div class="heading-text c-white">La aplicación busca los proveedores más cercanos a tí.</div>
 					</div>
 				</div>
 				<div class="col-lg-3 col-lg-offset-0 col-md-3 col-md-offset-0 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading">
-						<h5 class="heading-title">Diversas Formas de pago</h5>
-						<div class="heading-text">Puedes pagar tu pedido ya sea al contado o de manera digital.</div>
+						<h5 class="heading-title c-white">Diversas Formas de pago</h5>
+						<div class="heading-text c-white">Puedes pagar tu pedido ya sea al contado o de manera digital.</div>
 					</div>
 				</div>
 			</div>
@@ -85,7 +86,7 @@
 
 	<!-- Skew-row with sliders -->
 
-	<section class="section-bg-skew bg-11 bg-blue-mayorista pt180 align-center">
+	<section class="section-bg-skew bg-11c bg-blue-mayorista pt180 align-center">
 		<div class="container">
 			<div class="row">
 
@@ -107,9 +108,9 @@
 								<div class="swiper-slide">
 									<div class="crumina-module crumina-our-video">
 										<div class="video-thumb with-border-r">
-											<img src="img/video-thumb3.jpg" alt="video">
+											<img src="img/video-thumb3-1.jpg" alt="video">
 											<a href="https://www.youtube.com/watch?v=wnJ6LuUFpMo" class="video-control js-popup-iframe">
-												<img src="img/play.png" alt="play">
+												<img src="img/play-m.png" alt="play">
 											</a>
 											<div class="overlay"></div>
 										</div>
@@ -118,9 +119,9 @@
 								<div class="swiper-slide">
 									<div class="crumina-module crumina-our-video">
 										<div class="video-thumb with-border-r">
-											<img src="img/video-thumb3.jpg" alt="video">
+											<img src="img/video-thumb3-2.jpg" alt="video">
 											<a href="https://www.youtube.com/watch?v=wnJ6LuUFpMo" class="video-control js-popup-iframe">
-												<img src="img/play.png" alt="play">
+												<img src="img/play-m.png" alt="play">
 											</a>
 											<div class="overlay"></div>
 										</div>
@@ -129,9 +130,9 @@
 								<div class="swiper-slide">
 									<div class="crumina-module crumina-our-video">
 										<div class="video-thumb with-border-r">
-											<img src="img/video-thumb3.jpg" alt="video">
+											<img src="img/video-thumb3-2.jpg" alt="video">
 											<a href="https://www.youtube.com/watch?v=wnJ6LuUFpMo" class="video-control js-popup-iframe">
-												<img src="img/play.png" alt="play">
+												<img src="img/play-m.png" alt="play">
 											</a>
 											<div class="overlay"></div>
 										</div>
@@ -260,29 +261,29 @@
 					</div>
 					<div class="swiper-slide">
 						<div class="screenshot-item">
-							<a href="img/screen2.png" class="js-zoom-image">
-								<img src="img/screen2.png" alt="image">
+							<a href="img/screen2-1.png" class="js-zoom-image">
+								<img src="img/screen2-1.png" alt="image">
 							</a>
 						</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="screenshot-item">
-							<a href="img/screen2.png" class="js-zoom-image">
-								<img src="img/screen2.png" alt="image">
+							<a href="img/screen2-2.png" class="js-zoom-image">
+								<img src="img/screen2-2.png" alt="image">
 							</a>
 						</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="screenshot-item">
-							<a href="img/screen2.png" class="js-zoom-image">
-								<img src="img/screen2.png" alt="image">
+							<a href="img/screen2-3.png" class="js-zoom-image">
+								<img src="img/screen2-3.png" alt="image">
 							</a>
 						</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="screenshot-item">
-							<a href="img/screen2.png" class="js-zoom-image">
-								<img src="img/screen2.png" alt="image">
+							<a href="img/screen2-4.png" class="js-zoom-image">
+								<img src="img/screen2-4.png" alt="image">
 							</a>
 						</div>
 					</div>
@@ -312,7 +313,7 @@
 
 	<!-- Skew-row Promo Block-->
 
-	<section class="section-bg-skew bg-blue-lighteen bg-12 align-center pt180 pb120 not-bottom-element">
+	<section class="section-bg-skew bg-white bg-12 align-center pt180 pb120 not-bottom-element">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12">

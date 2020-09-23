@@ -545,7 +545,7 @@ div:hover > .btn-reverse-bg-green {
   background-color: #98d5ff; }
 
 .bg-blue-lighteen {
-  background-color: #ffffff; }
+  background-color: #ecf5fe; }
 
 .bg-blue-mayorista {
   background-color: #2979ff; }
@@ -911,8 +911,18 @@ div:hover > .btn-reverse-bg-green {
 .bg-11 {
   background-image: url("../img/clouds15.png"); }
 
+.bg-11c {
+  background-image: url("../img/clouds15c.png"); }  
+
+.bg-11d {
+  background-image: url("../img/clouds15d.png"); }
+
 .bg-12 {
   background-image: url("../img/clouds16.png"); }
+
+
+.bg-12d {
+  background-image: url("../img/clouds16d.png"); }
 
 .bg-13 {
   background-image: url("../img/clouds17.png"); }
@@ -934,6 +944,9 @@ div:hover > .btn-reverse-bg-green {
 
 .bg-19 {
   background-image: url("../img/clouds24.png"); }
+
+.bg-19d {
+  background-image: url("../img/clouds24d.png"); }  
 
 .bg-20 {
   background-image: url("../img/clouds25.png"); }
@@ -5277,17 +5290,17 @@ body.overlay-enable {
     left: 0; }
   .section-bg-skew:before {
     height: 170px;
-    background: -webkit-gradient(linear, left top, right bottom, color-stop(50%, #fff), color-stop(50%, transparent));
-    background: -webkit-linear-gradient(left top, #fff 50%, transparent 50%);
-    background: -o-linear-gradient(left top, #fff 50%, transparent 50%);
-    background: linear-gradient(to right bottom, #fff 50%, transparent 50%);
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(50%, #2979ff), color-stop(50%, transparent));
+    background: -webkit-linear-gradient(left top, #2979ff 50%, transparent 50%);
+    background: -o-linear-gradient(left top, #2979ff 50%, transparent 50%);
+    background: linear-gradient(to right bottom, #2979ff 50%, transparent 50%);
     top: -1px; }
   .section-bg-skew:after {
     height: 170px;
-    background: -webkit-gradient(linear, left top, right bottom, color-stop(50%, transparent), color-stop(50%, #fff));
-    background: -webkit-linear-gradient(left top, transparent 50%, #fff 50%);
-    background: -o-linear-gradient(left top, transparent 50%, #fff 50%);
-    background: linear-gradient(to right bottom, transparent 50%, #fff 50%);
+    background: -webkit-gradient(linear, left top, right bottom, color-stop(50%, transparent), color-stop(50%, #2979ff));
+    background: -webkit-linear-gradient(left top, transparent 50%, #2979ff 50%);
+    background: -o-linear-gradient(left top, transparent 50%, #2979ff 50%);
+    background: linear-gradient(to right bottom, transparent 50%, #2979ff 50%);
     bottom: -1px; }
 
 /*------------- #Rounded-ROWS --------------*/

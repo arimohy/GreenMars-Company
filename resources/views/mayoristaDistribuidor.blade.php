@@ -8,7 +8,7 @@
 
 	<!-- Skew-row -->
 
-	<section class="section-bg-skew bg-19 bg-white pt180 not-top-element">
+	<section class="section-bg-skew bg-19d  pt180 not-top-element">
 		<div class="container">
 			<div class="row">
 
@@ -38,7 +38,7 @@
 					</a>
 				</div>
 				<div class="col-lg-5 col-lg-offset-1 col-md-5 col-md-offset-1 col-sm-12 col-xs-12 negative-margin-bottom80">
-					<img src="img/screen1.png" alt="image">
+					<img src="img/screen1d.png" alt="image">
 				</div>
 			</div>
 		</div>
@@ -59,16 +59,16 @@
 								<img src="img/slides3.png" alt="image" data-swiper-parallax="-200">
 							</div>
 							<div class="swiper-slide">
-								<img src="img/slides3.png" alt="image" data-swiper-parallax="-200">
+								<img src="img/slides3-1.png" alt="image" data-swiper-parallax="-200">
 							</div>
 							<div class="swiper-slide">
-								<img src="img/slides3.png" alt="image" data-swiper-parallax="-200">
+								<img src="img/slides3-2.png" alt="image" data-swiper-parallax="-200">
 							</div>
 							<div class="swiper-slide">
-								<img src="img/slides3.png" alt="image" data-swiper-parallax="-200">
+								<img src="img/slides3-3.png" alt="image" data-swiper-parallax="-200">
 							</div>
 							<div class="swiper-slide">
-								<img src="img/slides3.png" alt="image" data-swiper-parallax="-200">
+								<img src="img/slides3-4.png" alt="image" data-swiper-parallax="-200">
 							</div>
 							
 						</div>
@@ -127,7 +127,7 @@
 
 	<!-- Skew-row with sliders -->
 
-	<section class="section-bg-skew bg-11 bg-blue-lighteen pt180 align-center">
+	<section class="section-bg-skew bg-11d bg-blue-lighteen pt180 align-center">
 		<div class="container">
 			<div class="row">
 
@@ -149,9 +149,9 @@
 								<div class="swiper-slide">
 									<div class="crumina-module crumina-our-video">
 										<div class="video-thumb with-border-r">
-											<img src="img/video-thumb3.jpg" alt="video">
+											<img src="img/video-thumb3-1d.jpg" alt="video">
 											<a href="https://www.youtube.com/watch?v=wnJ6LuUFpMo" class="video-control js-popup-iframe">
-												<img src="img/play.png" alt="play">
+												<img src="img/play-d.png" alt="play">
 											</a>
 											<div class="overlay"></div>
 										</div>
@@ -160,9 +160,9 @@
 								<div class="swiper-slide">
 									<div class="crumina-module crumina-our-video">
 										<div class="video-thumb with-border-r">
-											<img src="img/video-thumb3.jpg" alt="video">
+											<img src="img/video-thumb3-2d.jpg" alt="video">
 											<a href="https://www.youtube.com/watch?v=wnJ6LuUFpMo" class="video-control js-popup-iframe">
-												<img src="img/play.png" alt="play">
+												<img src="img/play-d.png" alt="play">
 											</a>
 											<div class="overlay"></div>
 										</div>
@@ -171,9 +171,9 @@
 								<div class="swiper-slide">
 									<div class="crumina-module crumina-our-video">
 										<div class="video-thumb with-border-r">
-											<img src="img/video-thumb3.jpg" alt="video">
+											<img src="img/video-thumb3-3d.jpg" alt="video">
 											<a href="https://www.youtube.com/watch?v=wnJ6LuUFpMo" class="video-control js-popup-iframe">
-												<img src="img/play.png" alt="play">
+												<img src="img/play-d.png" alt="play">
 											</a>
 											<div class="overlay"></div>
 										</div>
@@ -200,8 +200,8 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 negative-margin-bottom80">
 					<div class="crumina-module crumina-double-image">
-						<img src="img/image6.png" alt="image">
-						<img src="img/image7.png" alt="image">
+						<img src="img/image6d.png" alt="image">
+						<img src="img/image7d.png" alt="image">
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pb80">
@@ -252,7 +252,7 @@
 
 					<div class="crumina-module crumina-heading">
 						<h2 class="heading-title white-text-color">Preguntas frecuentes acerca de 
-							<span class="c-primary">Mayorista Cliente</span> </h2>
+							<span class="c-white">Mayorista Cliente</span> </h2>
 					</div>
 
 					<div id="accordion" class="crumina-module crumina-accordion ">
@@ -418,36 +418,36 @@
 				<div class="swiper-wrapper">
 					<div class="swiper-slide">
 						<div class="screenshot-item">
-							<a href="img/screen2.png" class="js-zoom-image">
-								<img src="img/screen2.png" alt="image">
+							<a href="img/screen2d.png" class="js-zoom-image">
+								<img src="img/screen2d.png" alt="image">
 							</a>
 						</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="screenshot-item">
-							<a href="img/screen2.png" class="js-zoom-image">
-								<img src="img/screen2.png" alt="image">
+							<a href="img/screen2-1d.png" class="js-zoom-image">
+								<img src="img/screen2-1d.png" alt="image">
 							</a>
 						</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="screenshot-item">
-							<a href="img/screen2.png" class="js-zoom-image">
-								<img src="img/screen2.png" alt="image">
+							<a href="img/screen2-2d.png" class="js-zoom-image">
+								<img src="img/screen2-2d.png" alt="image">
 							</a>
 						</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="screenshot-item">
-							<a href="img/screen2.png" class="js-zoom-image">
-								<img src="img/screen2.png" alt="image">
+							<a href="img/screen2-3d.png" class="js-zoom-image">
+								<img src="img/screen2-3d.png" alt="image">
 							</a>
 						</div>
 					</div>
 					<div class="swiper-slide">
 						<div class="screenshot-item">
-							<a href="img/screen2.png" class="js-zoom-image">
-								<img src="img/screen2.png" alt="image">
+							<a href="img/screen2-4d.png" class="js-zoom-image">
+								<img src="img/screen2-4d.png" alt="image">
 							</a>
 						</div>
 					</div>
@@ -477,7 +477,7 @@
 
 	<!-- Skew-row Promo Block-->
 
-	<section class="section-bg-skew bg-blue-lighteen bg-12 align-center pt180 pb120 not-bottom-element">
+	<section class="section-bg-skew bg-white bg-12d align-center pt180 pb120 not-bottom-element">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12">
