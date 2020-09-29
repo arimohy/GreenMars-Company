@@ -1539,6 +1539,8 @@ body.crumina-grid .kc_col-of-5 {
     .medium-padding120 {
       padding: 35px 0; } }
 
+
+
 .medium-padding180 {
   padding: 180px 0; }
   @media (max-width: 800px) {
@@ -1546,10 +1548,10 @@ body.crumina-grid .kc_col-of-5 {
       padding: 90px 0; } }
 
 .medium-padding270 {
-  padding: 270px 0; }
+  padding: 0px 0; }
   @media (max-width: 800px) {
     .medium-padding270 {
-      padding: 100px 0; } }
+      padding: 50px 0; } }
 
 .pb100 {
   padding-bottom: 100px; }
@@ -1637,6 +1639,9 @@ body.crumina-grid .kc_col-of-5 {
 
 .bg-primary-color {
   background-color: #0083ff; }
+
+.bg-hormiga-red-color {
+  background-color: #ff1600; }  
 
 .c-yellow-light {
   color: #ffff00; }

@@ -35,7 +35,7 @@
 										</svg>
 
 									</h1>
-									<h6 class="slider-content-text color-text-green" data-swiper-parallax="-200">Una empresa dedicada a desarrollo de aplicaiones para el servicios de la sociedad. muestras aplicaiones son muy eficientes y seguros.
+									<h6 class="slider-content-text color-text-green" data-swiper-parallax="-200">Es una compañia dedicada al análisis y desarrollo de soluciones ,haciendo uso de nuevas tecnologias enfocada en tus aprendimientos haciendo alcanzable grandes objetivos.
 									</h6>
 
 									<div class="main-slider-btn-wrap" data-swiper-parallax="-300">
@@ -190,9 +190,8 @@
 						</div>
 
 						<div class="info-box-content">
-							<a href="#" class="h5-own info-box-title-green">Online Shopping</a>
-							<p class="info-box-text color-text-green">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-								nibh euismod tincidunt ut laoreet dolore magna aliquam.
+							<a href="#" class="h5-own info-box-title-green">Facil de usar</a>
+							<p class="info-box-text color-text-green">Todas nuestras aplicaciones y herramientas son amigables,intuitivas y muy fácil de usar.
 							</p>
 						</div>
 
@@ -217,9 +216,8 @@
 						</div>
 
 						<div class="info-box-content">
-							<a href="#" class="h5-own info-box-title-green">Multimedia Archives</a>
-							<p class="info-box-text color-text-green">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-								nibh euismod tincidunt ut laoreet dolore magna aliquam.
+							<a href="#" class="h5-own info-box-title-green">Seguridad </a>
+							<p class="info-box-text color-text-green">Nuestras aplicaciones garantizan la confidencialidad de sus dados y garantía en sus servicios
 							</p>
 						</div>
 
@@ -244,9 +242,8 @@
 						</div>
 
 						<div class="info-box-content">
-							<a href="#" class="h5-own info-box-title-green">Quick Settings</a>
-							<p class="info-box-text color-text-green">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-								nibh euismod tincidunt ut laoreet dolore magna aliquam.
+							<a href="#" class="h5-own info-box-title-green">Tecnologías</a>
+							<p class="info-box-text color-text-green">Nuestros proyectos siempre están en constante actualización intentando mejorar su calidad.
 							</p>
 						</div>
 
@@ -286,7 +283,9 @@
 								<div class="crumina-module crumina-heading custom-color c-white">
 									<h6 class="heading-sup-title">Apps</h6>
 									<h2 class="heading-title">Mayorista</h2>
-									<div class="heading-text">Mayorista es una aplicacion pensada para realizar las compras desde la comodidad de tu hogar. No necesitas salir de compras para tener en tu hogas lo que más necesitas. Mayorista tiene gran cantidad de distribuidores cerca a tu hogar lo que hace que tus pedidos lleguen mas rápido. <br>
+									<div class="heading-text">Mayorista es una aplicación móvil que te permite realizar compras al por mayor desde la comodidad, para tu hogar o negocio.
+                                    <br> Selecciona tu lugar de entrega y el distribuidor mas rápido te lo entregara.
+                                    <br>
 									Descarga nuestra app Mayorista
 									</div>
 								</div>
@@ -325,8 +324,8 @@
 								<div class="crumina-module crumina-heading custom-color c-mayorista">
 									<h6 class="heading-sup-title " >Apps</h6>
 									<h2 class="heading-title mayorista">Mayorista Distribuidor</h2>
-									<div class="heading-text mayorista">Mayorista Disitribuidor es una aplicacion pensado para las personas que tienen un negocio y quieren incrementar sus ventas. Con esta Aplicacion puede recibir pedidos de muchos usuarios. venda mas y afiliate a nuestra plataforma de negocio. <br>
-										descarga nuestra aplicacion
+									<div class="heading-text mayorista">Es una herramienta gratuita que te permite ser mas visible frente a potenciales clientes, dispuestos a comprar tus productos por mayor.<br>
+                                        Descarga nuestra app y empieza a vender mucho más.
 									</div>
 								</div>
 
@@ -363,12 +362,56 @@
 							<div class="col-lg-6 col-lg-offset-1 col-md-7 col-md-offset-0 col-sm-12 col-xs-12">
 								<div class="crumina-module crumina-heading custom-color c-white">
 									<h6 class="heading-sup-title">Apps</h6>
-									<h2 class="heading-title">Ormiga</h2>
-									<div class="heading-text">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed
-										diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.
-										Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum.
-										Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit
-										litterarum formas humanitatis per.
+									<h2 class="heading-title">Hormiga</h2>
+									<div class="heading-text">Plataforma creada para impulsar la producción nacional, activar la economía de nuestro país y promover el empleo.
+                                        <br>Se parte de nosotros como:
+                                        <br>Productor: Ingresa tus productos, exhíbelos al mundo y vende más.
+                                        <br>Comprador: Peruano compra a peruano.
+                                        <br>Hormiga: Regístrate y conviértete en una hormiga repartidora
+
+                                        <br>
+                                        Descarga nuestra app o ingresa a hormiga.pe y disfruta de esta experiencia.
+									</div>
+								</div>
+
+								<a href="#" class="btn btn-market btn--with-shadow">
+									<svg class="utouch-icon utouch-icon-apple-logotype-1">
+										<use xlink:href="#utouch-icon-apple-logotype-1"></use>
+									</svg>
+									<div class="text">
+										<span class="sup-title">Download on the</span>
+										<span class="title">App Store</span>
+									</div>
+								</a>
+
+								<a href="#" class="btn btn-market btn--with-shadow">
+									<img class="utouch-icon" src="svg-icons/google-play.svg" alt="google">
+									<div class="text">
+										<span class="sup-title">Download on the</span>
+										<span class="title">Google Play</span>
+									</div>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+                <!-- ... seccion aumentada para myjato -->
+                <div class="swiper-slide bg-orange bg-8" data-mh="slide">
+					<div class="container">
+						<div class="row">
+							<div class="col-lg-4 col-lg-offset-1 col-md-5 col-md-offset-0 col-sm-12 col-xs-12">
+								<div class="slider-tabs-vertical-thumb">
+									<img src="img/iphone4.png" alt="iphone">
+								</div>
+							</div>
+							<div class="col-lg-6 col-lg-offset-1 col-md-7 col-md-offset-0 col-sm-12 col-xs-12">
+								<div class="crumina-module crumina-heading custom-color c-white">
+									<h6 class="heading-sup-title">Aplicación Web</h6>
+									<h2 class="heading-title">My Jato</h2>
+									<div class="heading-text">Portal inmobiliario que permite promocionar de manera exponencial tu propiedad en alquiler, venta, anticresis y mucho más.
+
+                                        <br>
+                                        Suscríbete y publica gratis en MyJato.com
 									</div>
 								</div>
 
@@ -408,6 +451,9 @@
 					<span class="round red"></span>03.
 				</a>
 
+                <a href="#" class="slides-item">
+					<span class="round orange"></span>04.
+				</a>
 			</div>
 
 		</div>
@@ -457,7 +503,7 @@
 
 	<!-- Clients Block -->
 
-	
+
 
 	<!-- ... end Clients Block -->
 
@@ -534,14 +580,14 @@
 		<div class="container">
 			<div class="row">
 				<div class="counters">
-					
+
 					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
 						<div class="crumina-module crumina-counter-item">
 							<div class="counter-numbers counter c-yellow">
 								<span data-speed="2000" data-refresh-interval="3" data-to="7564" data-from="2">7564</span>
 							</div>
 							<h5 class="counter-title-own  color-text-green">Likes</h5>
-						</div> 
+						</div>
 					</div>
 					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
 						<div class="crumina-module crumina-counter-item">
@@ -549,7 +595,7 @@
 								<span data-speed="2000" data-refresh-interval="3" data-to="1231" data-from="2">1231</span>
 							</div>
 							<h5 class="counter-title-own color-text-green">Distribuidores afiliados</h5>
-						</div> 
+						</div>
 					</div>
 					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
 						<div class="crumina-module crumina-counter-item">
@@ -557,13 +603,13 @@
 								<span data-speed="2000" data-refresh-interval="3" data-to="9614" data-from="2">9614</span>
 							</div>
 							<h5 class="counter-title-own color-text-green">Usuarios Activos</h5>
-						</div> 
+						</div>
 					</div>
 					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
 						<div class="crumina-module crumina-counter-item">
 							<div class="counter-numbers counter c-yellow">
 								<span data-speed="2000" data-refresh-interval="3" data-to="19237" data-from="2">19237</span>
-								
+
 							</div>
 							<h5 class="counter-title-own color-text-green">Descargas</h5>
 						</div>
@@ -585,7 +631,7 @@
 
 	<!-- FAQS Slider -->
 
-	
+
 
 	<!-- ... end FAQS Slider -->
 
@@ -665,21 +711,21 @@
 
 	<!-- Testimonials -->
 
-	
+
 
 	<!-- ... end Testimonials -->
 
 
 	<!-- Subscribe Form -->
 
-	
+
 
 	<!-- End Subscribe Form -->
 
 
 	<!-- Promo Block -->
 
-	
+
 
 	<!-- ... end Promo Block -->
 
