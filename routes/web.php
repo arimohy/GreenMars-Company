@@ -31,3 +31,5 @@ Route::get('/testimonials','MainController@testimonials');
 Route::get('/contact','MainController@contact');
 
 Route::get('/ourApps','MainController@ourApps');
+
+Route::get('/MyJato','MainController@myjato');

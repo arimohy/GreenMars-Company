@@ -38,4 +38,8 @@ class MainController extends Controller
     	return view('ourApps');
     }
 
+    public function myjato(){
+        return view ('myjato');
+    }
+
 }

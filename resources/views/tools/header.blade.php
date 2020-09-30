@@ -72,7 +72,7 @@
 										<a href="{{url('/hormiga')}}">Hormiga</a>
 									</li>
 									<li>
-										<a href="{{url('/hormiga')}}">Bienes & Raices RADO</a>
+										<a href="{{url('/MyJato')}}">MyJato</a>
 									</li>				
 								</ul>
 							</li>
@@ -171,9 +171,9 @@
 											<img src="img/company/logoRado.png"  style="border-radius: 10px;" alt="product">
 										</div>
 										<div class="product-item-content">
-											<h6 class="title">Bienes y raices Rado</h6>
-											<a href="{{url('/ormiga')}}" class="more-arrow">
-												<span>View Case</span>
+											<h6 class="title">MyJato. Tu sitio inmobiliario</h6>
+											<a href="{{url('/MyJato')}}" class="more-arrow">
+												<span>Ver más</span>
 												<div class="btn-next">
 													<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
 														<use xlink:href="#utouch-icon-arrow-right-1"></use>
