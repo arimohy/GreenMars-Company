@@ -14,7 +14,7 @@
 			<div class="row medium-padding100">
 				<div class="col-lg-8 col-lg-offset-2 col-md-12 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading align-center">
-						<h6 class="heading-sup-title c-primary">MyJato</h6>
+						<h6 class=" color-myjato-black">MyJato</h6>
 						<h2 class="heading-title">MyJato el mejor sitio inmobiliario donde pudes encontrar lo que estas buscando. !El inmueble que soñaste está en MyJato!</h2>
 						<a href="15_pricing_tables.html" class="btn btn--green btn--with-shadow ">
 						Visita nuestra página oficial de MyJato
@@ -40,7 +40,7 @@
 
 	<!-- Text Block -->
 
-	<section class="medium-padding100">
+	<section class="medium-padding100 bg-myjato-white" >
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-7 col-md-7 col-sm-12 col-xs-12">
@@ -95,7 +95,7 @@
 
 	<!-- Slider with round slides -->
 
-	<section class="crumina-module crumina-module-slider medium-padding100 bg-primary-color">
+	<section class="crumina-module crumina-module-slider medium-padding100 bg-myjato-green">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
@@ -118,11 +118,11 @@
 					</div>
 				</div>
 				<div class="col-lg-6 col-lg-offset-1 col-md-7 col-sm-12 col-xs-12">
-					<div class="slider-slides slider-slides--round-text">
-						<div class="slides-item">
-							<div class="number">1</div>
-							<div class="crumina-module crumina-heading custom-color c-white">
-								<h5 class="heading-title">Publica tus inmuebles</h5>
+					<div class="slider-slides slider-slides--round-text-own">
+						<div class="slides-item slide-active">
+							<div class="number color-myjato-black">1</div>
+							<div class="crumina-module crumina-heading custom-color color-myjato-black">
+								<h5 class="heading-title ">Publica tus inmuebles</h5>
 								<div class="heading-text">
 									Vende o alquila tus inmuebles en MyJato. Publica tu casa, departamento, oficina, local comercial, etc. 
 								</div>
@@ -131,21 +131,21 @@
 
 						<div class="slides-item slide-active">
 							<div class="number">2</div>
-							<div class="crumina-module crumina-heading custom-color c-white">
+							<div class="crumina-module crumina-heading custom-color color-myjato-black">
 								<h5 class="heading-title">Busca tu inmueble en alquiler</h5>
 								<div class="heading-text">En MyJato encontrarás en inmueble que estabas buscando. </div>
 							</div>
 						</div>
-						<div class="slides-item slide-active">
+						<div class="slides-item ">
 							<div class="number">3</div>
-							<div class="crumina-module crumina-heading custom-color c-white">
+							<div class="crumina-module crumina-heading custom-color color-myjato-black">
 								<h5 class="heading-title">Compra tu inmueble</h5>
 								<div class="heading-text">Contamos con los mejores agentes y los mejores inmuebles al precio más bajo del mercado.</div>
 							</div>
 						</div>
-						<div class="slides-item slide-active">
+						<div class="slides-item ">
 							<div class="number">4</div>
-							<div class="crumina-module crumina-heading custom-color c-white">
+							<div class="crumina-module crumina-heading custom-color color-myjato-black">
 								<h5 class="heading-title">Mira las visitas y comentarios de tu inmueble</h5>
 								<div class="heading-text">Estas mas conectado con los interesados de tu inmueble. puedes ver todas las visitas a tu publicación.</div>
 							</div>
@@ -164,14 +164,14 @@
 
 	<!-- Smartphone Video -->
 
-	<section class="medium-padding100 align-center">
+	<section class="medium-padding100 align-center bg-myjato-green">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading align-center">
-						<h6 class="heading-sup-title">Visita Nuestro canal en YouTube</h6>
-						<h3 class="heading-title">Mira Nuestro Video presentación</h3>
-						<div class="h5 heading-text">MyJato un sitio web donde puedes encontrar los mejores inmuebles.</div>
+						<h6 class="heading-sup-title color-myjato-black">Visita Nuestro canal en YouTube</h6>
+						<h3 class="heading-title color-myjato-black">Mira Nuestro Video presentación</h3>
+						<div class="h5 heading-text color-myjato-black">MyJato un sitio web donde puedes encontrar los mejores inmuebles.</div>
 					</div>
 					<div class="crumina-module crumina-smartphone-video">
 						<div class="video-thumb">
@@ -182,7 +182,7 @@
 						</div>
 					</div>
 
-					<a href="#" class="btn btn-border btn--with-shadow c-red">
+					<a href="#" class="btn btn-border btn--with-shadow c-myjato">
 						Visita nuestro canal
 					</a>
 				</div>
@@ -195,12 +195,12 @@
 
 	<!-- Smartphone -->
 
-	<section class="bg-blue-lighteen medium-padding100">
+	<section class=" medium-padding100 bg-myjato-green">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12  color-myjato-black">
 					<h3>¿Por qué publicar en MyJato?</h3>
-					<p>Somos el sitio web inmobiliario más grande en todo el país. y contamos con mas de 1.5 millones de visitas por mes. Te ayudamos a mejorar tus anuncios.</p>
+					<p class="color-myjato-black">Somos el sitio web inmobiliario más grande en todo el país. y contamos con mas de 1.5 millones de visitas por mes. Te ayudamos a mejorar tus anuncios.</p>
 					<div class="row">
 						<div class="info-boxes">
 							<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
@@ -251,7 +251,7 @@
 
 	<!-- Screenshots Masonry -->
 
-	<section class="align-center medium-padding100">
+	<section class="align-center medium-padding100 bg-blue-lighteen">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
@@ -262,7 +262,7 @@
 				</div>
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 
-					<ul class="cat-list-bg-style sorting-menu">
+					<ul class="cat-list-bg-style-own sorting-menu">
 						<li class="cat-list__item active" data-filter=".all"><a href="#" class="">Todos</a></li>
 						<li class="cat-list__item" data-filter=".aparments"><a href="#" class="">Departamentos</a></li>
 						<li class="cat-list__item" data-filter=".house"><a href="#" class="">Casas</a></li>
@@ -274,7 +274,7 @@
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item aparments all smm">
 							<div class="screenshots-item">
 								<img src="img/screenshot1-myjato1.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot1-myjato1.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -284,7 +284,7 @@
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item aparments  all smm">
 							<div class="screenshots-item">
 								<img src="img/screenshot1-myjato2.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot1-myjato2.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -294,7 +294,7 @@
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item aparments smm">
 							<div class="screenshots-item">
 								<img src="img/screenshot1-myjato3.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot1-myjato3.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -304,7 +304,7 @@
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item house all">
 							<div class="screenshots-item">
 								<img src="img/screenshot7-myjato1.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot7-myjato1.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -314,7 +314,7 @@
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item house all">
 							<div class="screenshots-item">
 								<img src="img/screenshot7-myjato2.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot7-myjato2.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -324,7 +324,7 @@
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item house">
 							<div class="screenshots-item">
 								<img src="img/screenshot7-myjato3.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot7-myjato3.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -334,7 +334,7 @@
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item house all">
 							<div class="screenshots-item">
 								<img src="img/screenshot7-myjato4.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot7-myjato4.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -344,8 +344,8 @@
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item office all">
 							<div class="screenshots-item">
 								<img src="img/screenshot3.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
-								<a href="img/screenshot3.jpg" class="expand js-zoom-image">
+								<div class="overlay-standard overlay--blue-dark-own"></div>
+								<a href="img/screenshot3-myjato1.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
 								</a>
@@ -353,8 +353,8 @@
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item office all">
 							<div class="screenshots-item">
-								<img src="img/screenshot3.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<img src="img/screenshot3-myjato2.jpg" alt="logo">
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot3.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -363,8 +363,8 @@
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item office">
 							<div class="screenshots-item">
-								<img src="img/screenshot3.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<img src="img/screenshot3-myjato3.jpg" alt="logo">
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot3.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -373,8 +373,8 @@
 						</div>
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item office">
 							<div class="screenshots-item">
-								<img src="img/screenshot3.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<img src="img/screenshot3-myjato4.jpg" alt="logo">
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot3.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -384,7 +384,7 @@
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item shop">
 							<div class="screenshots-item">
 								<img src="img/screenshot7-myjato5.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot7-myjato5.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -394,7 +394,7 @@
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item shop all">
 							<div class="screenshots-item">
 								<img src="img/screenshot7-myjato6.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot7-myjato6.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -404,7 +404,7 @@
 						<div class="col-lg-3 col-md-6 col-sm-6 col-xs-12 sorting-item shop">
 							<div class="screenshots-item">
 								<img src="img/screenshot7-myjato7.jpg" alt="logo">
-								<div class="overlay-standard overlay--blue-dark"></div>
+								<div class="overlay-standard overlay--blue-dark-own"></div>
 								<a href="img/screenshot7-myjato7.jpg" class="expand js-zoom-image">
 									<svg class="utouch-icon utouch-icon-expand"><use xlink:href="#utouch-icon-expand"></use></svg>
 									Ver
@@ -412,7 +412,7 @@
 							</div>
 						</div>
 				</div>
-				<a href="#" class="btn btn--large btn-border btn--with-shadow btn-more btn--grey-light" id="load-more-button" data-load-link="clients-to-load.html" data-container="clients-grid">Visita nuestra página </a>
+				<a href="#" class="btn btn--large btn-border btn--with-shadow btn-more btn--grey-light-own" id="load-more-button" data-load-link="clients-to-load.html" data-container="clients-grid">Visita nuestra página </a>
 			</div>
 		</div>
 	</section>

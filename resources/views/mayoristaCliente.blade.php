@@ -249,58 +249,56 @@
 			</div>
 		</div>
 
-		<div class="crumina-module crumina-module-slider slider--full-width screenshots-slider-style1 navigation-center-both-sides">
-			<div class="swiper-container pagination-bottom" data-show-items="5" data-centered-slider="true">
-				<div class="swiper-wrapper">
-					<div class="swiper-slide">
-						<div class="screenshot-item">
-							<a href="img/screen2.png" class="js-zoom-image">
-								<img src="img/screen2.png" alt="image">
-							</a>
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="screenshot-item">
-							<a href="img/screen2-1.png" class="js-zoom-image">
-								<img src="img/screen2-1.png" alt="image">
-							</a>
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="screenshot-item">
-							<a href="img/screen2-2.png" class="js-zoom-image">
-								<img src="img/screen2-2.png" alt="image">
-							</a>
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="screenshot-item">
-							<a href="img/screen2-3.png" class="js-zoom-image">
-								<img src="img/screen2-3.png" alt="image">
-							</a>
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="screenshot-item">
-							<a href="img/screen2-4.png" class="js-zoom-image">
-								<img src="img/screen2-4.png" alt="image">
-							</a>
-						</div>
-					</div>
-				</div>
+		<div class="crumina-module crumina-module-slider slider-with-device-client navigation-center-both-sides align-center">
 
-				<!-- If we need pagination -->
-				<div class="swiper-pagination"></div>
+			<div class="container">
+					<div class="row">
+
+							<div class="swiper-container" data-show-items="3" data-centered-slider="true">
+									<div class="swiper-wrapper">
+										<div class="swiper-slide">
+											<div class="screenshot-item">
+												<img src="img/screen2.png" alt="image">
+											</div>
+										</div>
+										<div class="swiper-slide">
+											<div class="screenshot-item">
+												<img src="img/screen2-1.png" alt="image">
+											</div>
+										</div>
+										<div class="swiper-slide">
+											<div class="screenshot-item">
+												<img src="img/screen2-2.png" alt="image">
+											</div>
+										</div>
+										<div class="swiper-slide">
+											<div class="screenshot-item">
+												<img src="img/screen2-3.png" alt="image">
+											</div>
+										</div>
+										<div class="swiper-slide">
+											<div class="screenshot-item">
+												<img src="img/screen2-4.png" alt="image">
+											</div>
+										</div>
+									</div>
+
+							</div>
+
+					</div>
 			</div>
+
+			<!-- If we need pagination -->
+			<div class="swiper-pagination"></div>
 
 			<!--Prev next buttons-->
 
-			<div class="btn-prev">
+			<div class="btn-prev with-bg rounded">
 				<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
 				<svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
 			</div>
 
-			<div class="btn-next">
+			<div class="btn-next with-bg rounded">
 				<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
 				<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
 			</div>

@@ -45,6 +45,20 @@
 .white{
   background: #ffffff;
 }
+
+.bg-myjato-green{
+  background: #ffd10c;
+}
+
+.color-myjato-green{
+  color: #ffd10c;
+}
+.color-myjato-black{
+  color: #1d1d1d;
+}
+.bg-myjato-white{
+  background: #ecf5fe;
+}
 /*-------------end tools ----------------------*/
 
 
@@ -179,4 +193,10 @@
 /*---------------------- MyJato Section ------*/
 
 .bg-myjato-green {
-  background-color: #E19B21; }
+  background-color: #ffd10c; }
+
+.bg-product-myjato {
+  background-color: #ffd10c; }
+  .bg-product-myjato:before {
+    -webkit-box-shadow: 10px 0 25px rgba(187, 38, 240, 0.6);
+    box-shadow: 10px 0 25px rgba(187, 38, 240, 0.6); }  

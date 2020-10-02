@@ -239,14 +239,14 @@
 						<div class="swiper-wrapper">
 							<div class="swiper-slide">
 								<div class="crumina-module crumina-case-item" data-mh="case-item">
-									<a href="img/case1.jpg" class="case-item__thumb js-zoom-image">
-										<img src="img/case1.jpg" alt="case">
+									<a href="img/case1-client.jpg" class="case-item__thumb js-zoom-image">
+										<img src="img/case1-client.jpg" alt="case">
 									</a>
 
 									<div class="square-colored bg-product-blue-mayorista"></div>
 									<div class="case-item-content">
 										<h5 class="title">Mayorista. descubre todas las potencialidades de nuestra APP. </h5>
-										<a href="#" class="more-arrow white">
+										<a href="#" class="more-arrow white" style="background: transparent;">
 											<span>Ver más</span>
 											<div class="btn-next">
 												<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
@@ -263,14 +263,14 @@
 
 							<div class="swiper-slide">
 								<div class="crumina-module crumina-case-item" data-mh="case-item">
-									<a href="img/case2.jpg" class="case-item__thumb js-zoom-image">
-										<img src="img/case2.jpg" alt="case">
+									<a href="img/case2-distribuidor.jpg" class="case-item__thumb js-zoom-image">
+										<img src="img/case2-distribuidor.jpg" alt="case">
 									</a>
 
 									<div class="square-colored bg-product-violet-distribuidor"></div>
 									<div class="case-item-content">
 										<h5 class=" mayorista">Mayorista distribuidor. vende más y genera grandes ganancias!</h5>
-										<a href="#" class="more-arrow white">
+										<a href="#" class="more-arrow white-distribuidor">
 											<span class="mayorista">Ver más</span>
 											<div class="btn-next">
 												<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
@@ -287,14 +287,14 @@
 
 							<div class="swiper-slide">
 								<div class="crumina-module crumina-case-item" data-mh="case-item">
-									<a href="img/case1.jpg" class="case-item__thumb js-zoom-image">
-										<img src="img/case1.jpg" alt="case">
+									<a href="img/case1-hormiga.jpg" class="case-item__thumb js-zoom-image">
+										<img src="img/case1-hormiga.jpg" alt="case">
 									</a>
 
 									<div class="square-colored bg-product-blue-own"></div>
 									<div class="case-item-content">
 										<h5 class="title">Hormiga. Dedicada a impulsar la producción nacional.</h5>
-										<a href="#" class="more-arrow white">
+										<a href="#" class="more-arrow white" style="background: transparent;">
 											<span>Ver más</span>
 											<div class="btn-next">
 												<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
@@ -311,15 +311,15 @@
 
 							<div class="swiper-slide">
 								<div class="crumina-module crumina-case-item" data-mh="case-item">
-									<a href="img/case2.jpg" class="case-item__thumb js-zoom-image">
-										<img src="img/case2.jpg" alt="case">
+									<a href="img/case2-myjato.jpg" class="case-item__thumb js-zoom-image">
+										<img src="img/case2-myjato.jpg" alt="case">
 									</a>
 
-									<div class="square-colored bg-product-violet"></div>
+									<div class="square-colored bg-product-myjato"></div>
 									<div class="case-item-content">
-										<h5 class="title">Rados. Bienes y Raices</h5>
-										<a href="#" class="more-arrow white">
-											<span>Ver más</span>
+										<h5 class=" color-myjato-black">MyJato. encuentra en inmueble ideal para tí en nuestra página web.</h5>
+										<a href="#" class="more-arrow white-myjato" style="background: transparent;">
+											<span class="color-myjato-black">Ver más</span>
 											<div class="btn-next">
 												<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
 													<use xlink:href="#utouch-icon-arrow-right-1"></use>
@@ -361,7 +361,7 @@
 				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading align-center">
 						<h2 class="heading-title green-mars">Conoce a nuestro equipo de profesionales</h2>
-						<div class="heading-text color-text-green">Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit litterarum formas humanitatis per.</div>
+						<div class="heading-text color-text-green">Nuestro equipo de profesionales están trabjando en todos nuestros proyectos.</div>
 					</div>
 				</div>
 

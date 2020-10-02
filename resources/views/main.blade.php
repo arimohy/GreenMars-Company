@@ -65,7 +65,7 @@
 					<div class="container table">
 						<div class="row table-cell">
 
-							<div class="col-lg-5 col-md-12 col-sm-12 col-xs-12">
+							<div class="col-lg-5 col-md-6 col-sm-12 col-xs-12">
 								<div class="slider-content align-both">
 									<h2 class="slider-content-title color-text-green" data-swiper-parallax="-100">
 										<span class="c-primary">Mayorista</span>
@@ -98,11 +98,19 @@
 
 								</div>
 							</div>
+							<div class="col-lg-5 col-md-6 col-sm-12 col-xs-12 ">
+								<div class="slider-content align-both">
+									<div class="slider-thumb" data-swiper-parallax="-10" data-swiper-parallax-duration="10">
+										<img src="img/slides2-cliente.png" alt="slider">
+									</div>
+								</div>
+								
+							</div>
 
 						</div>
 					</div>
 				</div>
-				<div class="swiper-slide thumb-left bg-3 main-slider-bg-light" >
+				<div class="swiper-slide  bg-3 main-slider-bg-light" >
 
 					<div class="container table full-height">
 						<div class="row table-cell">
@@ -396,7 +404,7 @@
 					</div>
 				</div>
                 <!-- ... seccion aumentada para myjato -->
-                <div class="swiper-slide bg-orange bg-8" data-mh="slide">
+                <div class="swiper-slide bg-myjato-green bg-8-myjato" data-mh="slide">
 					<div class="container">
 						<div class="row">
 							<div class="col-lg-4 col-lg-offset-1 col-md-5 col-md-offset-0 col-sm-12 col-xs-12">
@@ -517,22 +525,21 @@
 				<div class="display-flex info-boxes">
 					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-info-box info-box--standard-round icon-right negative-margin-right150">
-							<div class="info-box-image">
-								<img src="svg-icons/chat.svg" alt="chat" class="utouch-icon">
-							</div>
-							<div class="info-box-content">
-								<h5 class="info-box-title green-mars"><a href="{{url('/')}}">MyJato</a> </h5>
-								<p class="info-box-text color-text-green">Empresa dedicada diseñar plataformas web, móviles especialmente para impulsar el crecimiento de negocios.</p>
-							</div>
-						</div>
-
-						<div class="crumina-module crumina-info-box info-box--standard-round icon-right negative-margin-right150">
 							<div class="info-box-image mayorista-bg" style="background: #2979ff;">
-								<img src="svg-icons/pictures.svg" alt="chat" class="utouch-icon">
+								<img src="svg-icons/chat.svg" alt="chat" class="utouch-icon">
 							</div>
 							<div class="info-box-content ">
 								<h5 class="info-box-title mayorista"><a href="{{url('/mayorista')}}"> Mayorista</a></h5>
-								<p class="info-box-text color-text-green">Mayorista es una aplicación móvil que ayuda a las personas a encontrar productos de primera necesidad al por mayor de manera rápida lo que permite ahorrar tiempo y dinero.</p>
+								<p class="info-box-text color-text-green">Una aplicación que ayuda a encontrar productos de primera necesidad al por mayor de manera rápida lo que permite ahorrar tiempo y dinero.</p>
+							</div>
+						</div>
+						<div class="crumina-module crumina-info-box info-box--standard-round icon-right negative-margin-right150">
+							<div class="info-box-image" style="background: #ffd10c;">
+								<img src="svg-icons/pictures.svg" alt="chat" class="utouch-icon">
+							</div>
+							<div class="info-box-content">
+								<h5 class="info-box-title color-myjato-green"><a href="{{url('/')}}">MyJato</a> </h5>
+								<p class="info-box-text color-text-green">Empresa dedicada diseñar plataformas web, móviles especialmente para impulsar el crecimiento de negocios.</p>
 							</div>
 						</div>
 					</div>
@@ -550,7 +557,7 @@
 								<img src="svg-icons/clock.svg" alt="chat" class="utouch-icon">
 							</div>
 							<div class="info-box-content">
-								<h5 class="info-box-title mayorista-cliente"><a href="{{ url('/mayorista')}}"> Mayorista Cliente</a></h5>
+								<h5 class="info-box-title mayorista-cliente"><a href="{{ url('/mayorista')}}"> Mayorista Disitribuidor</a></h5>
 								<p class="info-box-text color-text-green">Mayorista distribuidor es una aplicación móvil que funciona como intermediario para conectar a los distribuidores con sus clientes.</p>
 							</div>
 						</div>
@@ -638,7 +645,7 @@
 
 	<!-- Info Boxes -->
 
-	<section class="crumina-module crumina-module-slider bg-blue-mayorista background-contain bg-11 medium-padding100">
+	<section class="crumina-module crumina-module-slider bg-white background-contain bg-11 medium-padding100">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
@@ -683,13 +690,13 @@
 					<div class="swiper-container pagination-bottom slider-tripple-right-image" data-show-items="1" data-effect="coverflow" data-centered-slider="false" data-stretch="170" data-depth="195">
 						<div class="swiper-wrapper">
 							<div class="swiper-slide">
-								<img src="img/img-slide1.png" alt="slide">
+								<img src="img/img-slide1-1.png" alt="slide">
 							</div>
 							<div class="swiper-slide">
-								<img src="img/img-slide1.png" alt="slide">
+								<img src="img/img-slide1-2.png" alt="slide">
 							</div>
 							<div class="swiper-slide">
-								<img src="img/img-slide1.png" alt="slide">
+								<img src="img/img-slide1-3.png" alt="slide">
 							</div>
 						</div>
 						<!-- If we need pagination -->

@@ -136,8 +136,8 @@
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-double-image">
-						<img src="img/image8-hormiga.jpg" alt="image">
-						<img src="img/image9-hormiga.jpg" alt="image">
+						<img src="img/image8-hormiga.png" alt="image">
+						<img src="img/image9-hormiga.png" alt="image">
 					</div>
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">

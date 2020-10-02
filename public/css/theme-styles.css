@@ -1568,6 +1568,9 @@ body.crumina-grid .kc_col-of-5 {
 .pt180 {
   padding-top: 180px; }
 
+.pt180-own {
+  padding-top: 80px; }  
+
 .pt100 {
   padding-top: 100px; }
   @media (max-width: 800px) {
@@ -1676,7 +1679,7 @@ body.crumina-grid .kc_col-of-5 {
   margin-top: -80px; }
 
 .negative-margin-bottom80 {
-  margin-bottom: -80px; }
+  margin-bottom: 80px; }
 
 .box-shadow--black {
   -webkit-box-shadow: 30px 0 100px rgba(0, 0, 0, 0.2);
@@ -6228,6 +6231,26 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
       .more-arrow.white:hover .btn-next .utouch-icon {
         fill: #fff; }
 
+  .more-arrow.white-myjato {
+    color: #fff;
+    fill: #1d1d1d; }
+    .more-arrow.white-myjato .btn-next .utouch-icon {
+      fill: #1d1d1d; }
+    .more-arrow.white-myjato:hover {
+      color: #fff; }
+      .more-arrow.white-myjato:hover .btn-next .utouch-icon {
+        fill: #1d1d1d; } 
+
+  .more-arrow.white-distribuidor {
+    color: #fff;
+    fill: #2979ff; }
+    .more-arrow.white-distribuidor .btn-next .utouch-icon {
+      fill: #2979ff; }
+    .more-arrow.white-distribuidor:hover {
+      color: #fff; }
+      .more-arrow.white-distribuidor:hover .btn-next .utouch-icon {
+        fill: #2979ff; }           
+
 .bg-product-blue {
   background-color: #007bef; }
   .bg-product-blue:before {
@@ -6517,6 +6540,9 @@ nav li.menu-item-has-mega-menu ul.mega-menu-row li {
 
 .overlay--blue-dark {
   background-color: rgba(0, 131, 255, 0.8); }
+
+.overlay--blue-dark-own {
+  background-color: rgba(255, 209, 12, 0.8); }  
 
 .overlay--green {
   background-color: rgba(1, 162, 160, 0.5); }

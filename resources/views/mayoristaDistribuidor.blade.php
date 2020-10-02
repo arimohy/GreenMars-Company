@@ -8,7 +8,7 @@
 
 	<!-- Skew-row -->
 
-	<section class="section-bg-skew bg-19d  pt180 not-top-element">
+	<section class="section-bg-skew bg-19d  pt180-own not-top-element">
 		<div class="container">
 			<div class="row">
 
@@ -49,7 +49,7 @@
 
 	<!-- Skew-row -->
 
-	<section class="section-bg-skew crumina-module-slider bg-blue-mayorista pt180 align-center">
+	<section class="section-bg-skew crumina-module-slider bg-blue-mayorista pt180-own align-center">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
@@ -413,58 +413,56 @@
 			</div>
 		</div>
 
-		<div class="crumina-module crumina-module-slider slider--full-width screenshots-slider-style1 navigation-center-both-sides">
-			<div class="swiper-container pagination-bottom" data-show-items="5" data-centered-slider="true">
-				<div class="swiper-wrapper">
-					<div class="swiper-slide">
-						<div class="screenshot-item">
-							<a href="img/screen2d.png" class="js-zoom-image">
-								<img src="img/screen2d.png" alt="image">
-							</a>
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="screenshot-item">
-							<a href="img/screen2-1d.png" class="js-zoom-image">
-								<img src="img/screen2-1d.png" alt="image">
-							</a>
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="screenshot-item">
-							<a href="img/screen2-2d.png" class="js-zoom-image">
-								<img src="img/screen2-2d.png" alt="image">
-							</a>
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="screenshot-item">
-							<a href="img/screen2-3d.png" class="js-zoom-image">
-								<img src="img/screen2-3d.png" alt="image">
-							</a>
-						</div>
-					</div>
-					<div class="swiper-slide">
-						<div class="screenshot-item">
-							<a href="img/screen2-4d.png" class="js-zoom-image">
-								<img src="img/screen2-4d.png" alt="image">
-							</a>
-						</div>
-					</div>
-				</div>
+		<div class="crumina-module crumina-module-slider slider-with-device-own navigation-center-both-sides align-center">
 
-				<!-- If we need pagination -->
-				<div class="swiper-pagination"></div>
+			<div class="container">
+					<div class="row">
+
+							<div class="swiper-container" data-show-items="3" data-centered-slider="true">
+									<div class="swiper-wrapper">
+										<div class="swiper-slide">
+											<div class="screenshot-item">
+												<img src="img/screen2d.png" alt="image">
+											</div>
+										</div>
+										<div class="swiper-slide">
+											<div class="screenshot-item">
+												<img src="img/screen2-1d.png" alt="image">
+											</div>
+										</div>
+										<div class="swiper-slide">
+											<div class="screenshot-item">
+												<img src="img/screen2-2d.png" alt="image">
+											</div>
+										</div>
+										<div class="swiper-slide">
+											<div class="screenshot-item">
+												<img src="img/screen2-3d.png" alt="image">
+											</div>
+										</div>
+										<div class="swiper-slide">
+											<div class="screenshot-item">
+												<img src="img/screen2-4d.png" alt="image">
+											</div>
+										</div>
+									</div>
+
+							</div>
+
+					</div>
 			</div>
+
+			<!-- If we need pagination -->
+			<div class="swiper-pagination"></div>
 
 			<!--Prev next buttons-->
 
-			<div class="btn-prev">
+			<div class="btn-prev with-bg rounded">
 				<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
 				<svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
 			</div>
 
-			<div class="btn-next">
+			<div class="btn-next with-bg rounded">
 				<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
 				<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
 			</div>
