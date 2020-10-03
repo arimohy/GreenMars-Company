@@ -249,6 +249,8 @@
 	<!-- ... end Smartphone -->
 
 
+
+
 	<!-- Screenshots Masonry -->
 
 	<section class="align-center medium-padding100 bg-blue-lighteen">
@@ -420,11 +422,170 @@
 	<!-- ... end Screenshots Masonry -->
 
 
-	<!-- Promo Block -->
+	<!-- Testimonials -->
 
-	
+	<section class="crumina-module crumina-module-slider  bg-4-myjato cloud-center navigation-center-both-sides medium-padding100" style="padding: 100px 0; background-color: #f2f8fe;">
+		<div class="container pt100-client" >
+			<div class="row">
+				<div class="col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 col-sm-offset-0">
+					<div class="crumina-module crumina-heading align-center">
+						<h6 class="heading-sup-title">Experiencias</h6>
+						<h2 class="h3 heading-title">¿Que dicen nuestros usuarios acerca MyJato?</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-sm-offset-0">
+					<div class="swiper-container" data-effect="fade">
+						<div class="swiper-wrapper">
+							<div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
 
-	<!-- ... end Promo Block -->
+								<div class="testimonial-img-author" data-swiper-parallax="-100">
+									<img src="img/author2-myjato.png" alt="avatar">
+								</div>
+
+								<h6 class="testimonial-text" data-swiper-parallax="-300">
+									Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est
+									etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum parum claram.
+								</h6>
+
+								<div class="author-info-wrap" data-swiper-parallax="-100">
+
+									<div class="author-info">
+										<a href="#" class="h6 author-name">Doe Simpson</a>
+										<div class="author-company">Student, 23 years old</div>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
+
+								<div class="testimonial-img-author" data-swiper-parallax="-100">
+									<img src="img/author3-myjato.png" alt="avatar">
+								</div>
+
+								<h6 class="testimonial-text" data-swiper-parallax="-300">
+									Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est
+									etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum parum claram.
+								</h6>
+
+								<div class="author-info-wrap" data-swiper-parallax="-100">
+
+									<div class="author-info">
+										<a href="#" class="h6 author-name">Doe Simpson</a>
+										<div class="author-company">Student, 23 years old</div>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
+
+								<div class="testimonial-img-author" data-swiper-parallax="-100">
+									<img src="img/author4-myjato.png" alt="avatar">
+								</div>
+
+								<h6 class="testimonial-text" data-swiper-parallax="-300">
+									Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est
+									etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum parum claram.
+								</h6>
+
+								<div class="author-info-wrap" data-swiper-parallax="-100">
+
+									<div class="author-info">
+										<a href="#" class="h6 author-name">Doe Simpson</a>
+										<div class="author-company">Student, 23 years old</div>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
+
+								<div class="testimonial-img-author" data-swiper-parallax="-100">
+									<img src="img/author5-myjato.png" alt="avatar">
+								</div>
+
+								<h6 class="testimonial-text" data-swiper-parallax="-300">
+									Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est
+									etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum parum claram.
+								</h6>
+
+								<div class="author-info-wrap" data-swiper-parallax="-100">
+
+									<div class="author-info">
+										<a href="#" class="h6 author-name">Doe Simpson</a>
+										<div class="author-company">Student, 23 years old</div>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
+
+								<div class="testimonial-img-author" data-swiper-parallax="-100">
+									<img src="img/author6-myjato.png" alt="avatar">
+								</div>
+
+								<h6 class="testimonial-text" data-swiper-parallax="-300">
+									Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est
+									etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum parum claram.
+								</h6>
+
+								<div class="author-info-wrap" data-swiper-parallax="-100">
+
+									<div class="author-info">
+										<a href="#" class="h6 author-name">Doe Simpson</a>
+										<div class="author-company">Student, 23 years old</div>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
+
+								<div class="testimonial-img-author" data-swiper-parallax="-100">
+									<img src="img/author7-myjato.png" alt="avatar">
+								</div>
+
+								<h6 class="testimonial-text" data-swiper-parallax="-300">
+									Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius. Claritas est
+									etiam processus dynamicus, qui sequitur mutationem consuetudium lectorum parum claram.
+								</h6>
+
+								<div class="author-info-wrap" data-swiper-parallax="-100">
+
+									<div class="author-info">
+										<a href="#" class="h6 author-name">Doe Simpson</a>
+										<div class="author-company">Student, 23 years old</div>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!--Prev next buttons-->
+
+		<div class="btn-prev">
+			<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
+			<svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
+		</div>
+
+		<div class="btn-next">
+			<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
+			<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
+		</div>
+	</section>
+
+	<!-- ... end Testimonials -->
 
 </div>
 

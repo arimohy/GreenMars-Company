@@ -1577,6 +1577,12 @@ body.crumina-grid .kc_col-of-5 {
     .pt100 {
       padding-top: 35px; } }
 
+.pt100-client {
+  padding-top: 40px; }
+  @media (max-width: 800px) {
+    .pt100-client {
+      padding-top: 25px; } }      
+
 .pt400 {
   padding-top: 400px; }
   @media (max-width: 1024px) {

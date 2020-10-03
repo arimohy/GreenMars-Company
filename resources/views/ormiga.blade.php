@@ -389,6 +389,345 @@
 
 	<!-- ... end Slider with Device -->
 
+	<!-- Testimonials -->
+
+	<section class="crumina-module crumina-module-slider bg-white-color navigation-center-both-sides" style="padding: 100px 0; ">
+		<div class="container pt100-client" >
+			<div class="row">
+				<div class="col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 col-sm-offset-0">
+					<div class="crumina-module crumina-heading align-center">
+						<h6 class="heading-sup-title">Experiencias</h6>
+						<h2 class="h3 heading-title">¿Que dicen nuestros usuarios acerca Hormiga?</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12">
+					<div class="swiper-container pagination-bottom" data-show-items="3">
+						<div class="swiper-wrapper">
+
+							<div class="swiper-slide">
+								<div class="crumina-module crumina-testimonial-item testimonial-item-quote-right">
+										<div class="testimonial-img-author">
+											<img src="img/author2-hormiga.png" alt="author">
+										</div>
+
+										<div class="author-info">
+											<a href="#" class="h6 author-name">Jonathan Miller</a>
+											<div class="author-company">Student, 23 years old</div>
+										</div>
+
+										<h6 class="testimonial-text">
+											Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt est.
+										</h6>
+
+										<ul class="rait-stars">
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+												</a>
+											</li>
+										</ul>
+
+										<div class="quote">
+											<svg class="utouch-icon utouch-icon-quotes"><use xlink:href="#utouch-icon-quotes"></use></svg>
+										</div>
+
+									</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="crumina-module crumina-testimonial-item testimonial-item-quote-right">
+										<div class="testimonial-img-author">
+											<img src="img/author3-hormiga.png" alt="author">
+										</div>
+
+										<div class="author-info">
+											<a href="#" class="h6 author-name">Britney Simpson</a>
+											<div class="author-company">Student, 23 years old</div>
+										</div>
+
+										<h6 class="testimonial-text">
+											Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius per seacula quarta decima.
+										</h6>
+
+										<ul class="rait-stars">
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+												</a>
+											</li>
+										</ul>
+
+										<div class="quote">
+											<svg class="utouch-icon utouch-icon-quotes"><use xlink:href="#utouch-icon-quotes"></use></svg>
+										</div>
+
+									</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="crumina-module crumina-testimonial-item testimonial-item-quote-right">
+										<div class="testimonial-img-author">
+											<img src="img/author4-hormiga.png" alt="author">
+										</div>
+
+										<div class="author-info">
+											<a href="#" class="h6 author-name">Christian Bush</a>
+											<div class="author-company">Student, 23 years old</div>
+										</div>
+
+										<h6 class="testimonial-text">
+											Qonsectetuer adipiscing elit, sed diam nonummy nibh euismod.
+										</h6>
+
+										<ul class="rait-stars">
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+												</a>
+											</li>
+										</ul>
+
+										<div class="quote">
+											<svg class="utouch-icon utouch-icon-quotes"><use xlink:href="#utouch-icon-quotes"></use></svg>
+										</div>
+
+									</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="crumina-module crumina-testimonial-item testimonial-item-quote-right">
+									<div class="testimonial-img-author">
+										<img src="img/author5-hormiga.png" alt="author">
+									</div>
+
+									<div class="author-info">
+										<a href="#" class="h6 author-name">Jonathan Miller</a>
+										<div class="author-company">Student, 23 years old</div>
+									</div>
+
+									<h6 class="testimonial-text">
+										Sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt est.
+									</h6>
+
+									<ul class="rait-stars">
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+											</a>
+										</li>
+									</ul>
+
+									<div class="quote">
+										<svg class="utouch-icon utouch-icon-quotes"><use xlink:href="#utouch-icon-quotes"></use></svg>
+									</div>
+
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="crumina-module crumina-testimonial-item testimonial-item-quote-right">
+									<div class="testimonial-img-author">
+										<img src="img/author6-hormiga.png" alt="author">
+									</div>
+
+									<div class="author-info">
+										<a href="#" class="h6 author-name">Britney Simpson</a>
+										<div class="author-company">Student, 23 years old</div>
+									</div>
+
+									<h6 class="testimonial-text">
+										Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius per seacula quarta decima.
+									</h6>
+
+									<ul class="rait-stars">
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+											</a>
+										</li>
+									</ul>
+
+									<div class="quote">
+										<svg class="utouch-icon utouch-icon-quotes"><use xlink:href="#utouch-icon-quotes"></use></svg>
+									</div>
+
+								</div>
+							</div>
+							<div class="swiper-slide">
+								<div class="crumina-module crumina-testimonial-item testimonial-item-quote-right">
+									<div class="testimonial-img-author">
+										<img src="img/author7-hormiga.png" alt="author">
+									</div>
+
+									<div class="author-info">
+										<a href="#" class="h6 author-name">Christian Bush</a>
+										<div class="author-company">Student, 23 years old</div>
+									</div>
+
+									<h6 class="testimonial-text">
+										Qonsectetuer adipiscing elit, sed diam nonummy nibh euismod.
+									</h6>
+
+									<ul class="rait-stars">
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+											</a>
+										</li>
+										<li>
+											<a href="#">
+												<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+											</a>
+										</li>
+									</ul>
+
+									<div class="quote">
+										<svg class="utouch-icon utouch-icon-quotes"><use xlink:href="#utouch-icon-quotes"></use></svg>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+
+						<!-- If we need pagination -->
+						<div class="swiper-pagination"></div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!--Prev next buttons-->
+
+		<div class="btn-prev" style="top: 60%">
+			<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
+			<svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
+		</div>
+
+		<div class="btn-next" style="top: 60%">
+			<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
+			<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
+		</div>
+
+	</section>
+
+	<!-- end Testtimonials -->
 
 	<!-- Promo Block -->
 

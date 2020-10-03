@@ -903,6 +903,9 @@ div:hover > .btn-reverse-bg-green {
 .bg-4 {
   background-image: url("../img/clouds4.png"); }
 
+.bg-4-myjato {
+  background-image: url("../img/clouds4-myjato.png"); }  
+
 .bg-5 {
   background-image: url("../img/clouds5.png"); }
 
@@ -1161,6 +1164,13 @@ div:hover > .btn-reverse-bg-green {
   -ms-transform: translate(0, -50%);
   transform: translate(0, -50%);
   position: absolute; }
+
+.navigation-center-both-sides-own .btn-prev, .navigation-center-both-sides-own .btn-next {
+  top: 70%;
+  -webkit-transform: translate(0, -50%);
+  -ms-transform: translate(0, -50%);
+  transform: translate(0, -50%);
+  position: absolute; }  
 
 .navigation-center-both-sides .btn-prev {
   left: 60px; }

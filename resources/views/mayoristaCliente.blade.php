@@ -157,7 +157,7 @@
 
 	<!-- Skew-row -->
 
-	<section class="pt120" style="background:#ffffff;">
+	<section class="section-bg-skew pt120" style="background:#2979ff;">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 negative-margin-bottom80">
@@ -168,13 +168,13 @@
 				</div>
 				<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 pb80">
 					<div class="crumina-module crumina-heading">
-						<h3 class="heading-title mayorista">Como funciona mayorista?</h3>
-						<div class="heading-text mayorista">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
+						<h3 class="heading-title c-white">Como funciona mayorista?</h3>
+						<div class="heading-text c-white">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
 							lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum claram, anteposuerit
 							litterarum formas humanitatis per.
 						</div>
 					</div>
-					<ul class="list list--standard mayorista">
+					<ul class="list list--standard c-white">
 						<li>
 							<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
 							<a href="#">Crea tu cuenta de usuario.</a>
@@ -243,7 +243,7 @@
 				<div class="col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 col-xs-12 mb30">
 					<div class="crumina-module crumina-heading">
 						<h6 class="heading-sup-title white-text-color">Mayorista</h6>
-						<h2 class="heading-title white-text-color">Diseños elegantes y muy deductivos</h2>
+						<h2 class="heading-title white-text-color">Nuestras experiencias con nuestro clientes</h2>
 					</div>
 				</div>
 			</div>
@@ -308,18 +308,301 @@
 
 	<!-- ... end Skew-row Screenshots-->
 
+	<!-----   Testimonials ---->
+
+	
+
+	<section class="crumina-module crumina-module-slider navigation-center-both-sides" style="padding: 70px 0; background-color: #f2f8fe;">
+		<div class="container pt100-client" >
+			<div class="row">
+				<div class="col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 col-sm-offset-0">
+					<div class="crumina-module crumina-heading align-center">
+						<h6 class="heading-sup-title">Experiencias</h6>
+						<h2 class="h3 heading-title">¿Que dicen nuestros usuarios acerca de Mayorista?</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="container">
+				<div class="row">
+					<div class="col-lg-12 col-md-12 col-sm-12">
+						<div class="swiper-container" data-show-items="3">
+							<div class="swiper-wrapper">
+
+								<div class="swiper-slide">
+
+									<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
+											<div class="author-info-wrap">
+												<div class="testimonial-img-author">
+													<img src="img/author2-client.png" alt="author">
+												</div>
+												<div class="author-info">
+													<a href="#" class="h6 author-name">Yhomira Alexandra</a>
+													<div class="author-company">engineer, 32 años</div>
+												</div>
+											</div>
+
+											<h6 class="testimonial-text">
+												Me gusta la calidad de atencios y la rapidez con las que llegan los productos
+											</h6>
+
+											<ul class="rait-stars">
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+													</a>
+												</li>
+											</ul>
+
+										</div>
+								</div>
+
+								<div class="swiper-slide">
+
+									<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
+											<div class="author-info-wrap">
+												<div class="testimonial-img-author">
+													<img src="img/author3-client.png" alt="author">
+												</div>
+												<div class="author-info">
+													<a href="#" class="h6 author-name">Yhomira Alexandra</a>
+													<div class="author-company">engineer, 32 años</div>
+												</div>
+											</div>
+
+											<h6 class="testimonial-text">
+												Me gusta la calidad de atencios y la rapidez con las que llegan los productos
+											</h6>
+
+											<ul class="rait-stars">
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+													</a>
+												</li>
+											</ul>
+
+										</div>
+								</div>
+
+								<div class="swiper-slide">
+
+									<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
+											<div class="author-info-wrap">
+												<div class="testimonial-img-author">
+													<img src="img/author4-client.png" alt="author">
+												</div>
+												<div class="author-info">
+													<a href="#" class="h6 author-name">Yhomira Alexandra</a>
+													<div class="author-company">engineer, 32 años</div>
+												</div>
+											</div>
+
+											<h6 class="testimonial-text">
+												Me gusta la calidad de atencios y la rapidez con las que llegan los productos
+											</h6>
+
+											<ul class="rait-stars">
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+													</a>
+												</li>
+											</ul>
+
+										</div>
+								</div>
+
+								<div class="swiper-slide">
+									<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
+											<div class="author-info-wrap">
+												<div class="testimonial-img-author">
+													<img src="img/author5-client.png" alt="author">
+												</div>
+												<div class="author-info">
+													<a href="#" class="h6 author-name">Hector</a>
+													<div class="author-company">Student, 20 years old</div>
+												</div>
+											</div>
+
+											<h6 class="testimonial-text">
+												Investigationes demonstraverunt lectores legere me lius quod ii legunt saepius
+												per seacula quarta decima decima.
+											</h6>
+
+											<ul class="rait-stars">
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+											</ul>
+
+										</div>
+								</div>
+
+								<div class="swiper-slide">
+									<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
+											<div class="author-info-wrap">
+												<div class="testimonial-img-author">
+													<img src="img/author6-client.png" alt="author">
+												</div>
+												<div class="author-info">
+													<a href="#" class="h6 author-name">Doe Simpson</a>
+													<div class="author-company">Student, 23 years old</div>
+												</div>
+											</div>
+
+											<h6 class="testimonial-text">
+												Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium.
+											</h6>
+
+											<ul class="rait-stars">
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+													</a>
+												</li>
+											</ul>
+
+										</div>
+								</div>
+
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<!--Prev next buttons-->
+
+			<div class="btn-prev" style="top: 70%;">
+				<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
+				<svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
+			</div>
+
+			<div class="btn-next" style="top: 70%;">
+				<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
+				<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
+			</div>
+		</div>
+		
+	</section>
+
+	<!-----  end Testimonials ---->
+
+
 
 	<!-- Skew-row Promo Block-->
 
-	<section class="section-bg-skew bg-white bg-12 align-center pt180 pb120 not-bottom-element">
+	<section class=" bg-white bg-12 align-center pt180 pb120 not-bottom-element" style="background: #f2f8fe;">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12">
 					<div class="crumina-module crumina-heading">
 						<h2 class="heading-title">Descarga <span class="c-primary">Mayorista</span> ahora!</h2>
-						<p class="heading-text">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
-							lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum.
-						</p>
+						<p class="heading-text">Mayorista es una de las aplicaciones más utilizadas en nuestra región. tenemos una variedad de productos que puedes pedir desde la comodidad de tu hogar.</p>
 					</div>
 
 					<a href="#"   class="btn btn-market btn--with-shadow">

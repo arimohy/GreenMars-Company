@@ -407,7 +407,7 @@
 				<div class="col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 col-xs-12 mb30">
 					<div class="crumina-module crumina-heading">
 						<h6 class="heading-sup-title white-text-color">Mayorista Distribuidor</h6>
-						<h2 class="heading-title white-text-color">Diseños elegantes y muy deductivos</h2>
+						<h2 class="heading-title white-text-color">Nuestras experiencias con nuestros clientes</h2>
 					</div>
 				</div>
 			</div>
@@ -473,9 +473,338 @@
 	<!-- ... end Skew-row Screenshots-->
 
 
+	<!---  testimonials ---->
+
+	<section class="crumina-module crumina-module-slider navigation-center-both-sides" style="padding: 70px 0; background-color: #f2f8fe;">
+		<div class="container pt100-client" >
+			<div class="row">
+				<div class="col-lg-6 col-lg-offset-3 col-md-12 col-sm-12 col-sm-offset-0">
+					<div class="crumina-module crumina-heading align-center">
+						<h6 class="heading-sup-title">Experiencias</h6>
+						<h2 class="h3 heading-title">¿Que dicen nuestros usuarios acerca de Mayorista Distribuidor?</h2>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-12 col-md-12 col-sm-12">
+					<div class="swiper-container" data-show-items="2">
+						<div class="swiper-wrapper">
+
+							<div class="swiper-slide">
+								<div class="crumina-module crumina-testimonial-item testimonial-item-author-left">
+
+										<div class="testimonial-img-author">
+											<img src="img/author2-distribuidor.png" alt="author">
+										</div>
+										<div class="author-info-wrap">
+											<div class="author-info">
+												<a href="#" class="h6 author-name" style="margin-bottom: 0px;">Jonathan Miller</a>
+												<div class="author-company">engineer, 32 años</div>
+											</div>
+											<h6 class="testimonial-text">
+												‘Mirum est notare quam littera gothica, quam nunc putamus parum claram,
+												anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.’
+											</h6>
+
+											<ul class="rait-stars">
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+											</ul>
+										</div>
+
+									</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="crumina-module crumina-testimonial-item testimonial-item-author-left">
+
+										<div class="testimonial-img-author">
+											<img src="img/author3-distribuidor.png" alt="author">
+										</div>
+										<div class="author-info-wrap">
+											<div class="author-info">
+												<a href="#" class="h6 author-name" style="margin-bottom: 0px;">Susan Meyer</a>
+												<div class="author-company">engineer, 32 años</div>
+											</div>
+											<h6 class="testimonial-text">
+												‘Investigationes demonstraverunt lectores legere me lius quod ii legunt
+												saepius per seacula quarta decima decima.’
+											</h6>
+
+											<ul class="rait-stars">
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+													</a>
+												</li>
+												<li>
+													<a href="#">
+														<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+													</a>
+												</li>
+											</ul>
+										</div>
+
+									</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="crumina-module crumina-testimonial-item testimonial-item-author-left">
+
+									<div class="testimonial-img-author">
+										<img src="img/author4-distribuidor.png" alt="author">
+									</div>
+									<div class="author-info-wrap">
+										<div class="author-info">
+											<a href="#" class="h6 author-name" style="margin-bottom: 0px;">Jonathan Miller</a>
+											<div class="author-company">engineer, 32 años</div>
+										</div>
+										<h6 class="testimonial-text">
+											‘Mirum est notare quam littera gothica, quam nunc putamus parum claram,
+											anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.’
+										</h6>
+
+										<ul class="rait-stars">
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="crumina-module crumina-testimonial-item testimonial-item-author-left">
+
+									<div class="testimonial-img-author">
+										<img src="img/author5-distribuidor.png" alt="author">
+									</div>
+									<div class="author-info-wrap">
+										<div class="author-info">
+											<a href="#" class="h6 author-name" style="margin-bottom: 0px;">Susan Meyer</a>
+											<div class="author-company">engineer, 32 años</div>
+										</div>
+										<h6 class="testimonial-text">
+											‘Investigationes demonstraverunt lectores legere me lius quod ii legunt
+											saepius per seacula quarta decima decima.’
+										</h6>
+
+										<ul class="rait-stars">
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+												</a>
+											</li>
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="crumina-module crumina-testimonial-item testimonial-item-author-left">
+
+									<div class="testimonial-img-author">
+										<img src="img/author6-distribuidor.png" alt="author">
+									</div>
+									<div class="author-info-wrap">
+										<div class="author-info">
+											<a href="#" class="h6 author-name" style="margin-bottom: 0px;">Jonathan Miller</a>
+											<div class="author-company">engineer, 32 años</div>
+										</div>
+										<h6 class="testimonial-text">
+											‘Mirum est notare quam littera gothica, quam nunc putamus parum claram,
+											anteposuerit litterarum formas humanitatis per seacula quarta decima et quinta decima.’
+										</h6>
+
+										<ul class="rait-stars">
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+							<div class="swiper-slide">
+								<div class="crumina-module crumina-testimonial-item testimonial-item-author-left">
+
+									<div class="testimonial-img-author">
+										<img src="img/author7-distribuidor.png" alt="author">
+									</div>
+									<div class="author-info-wrap">
+										<div class="author-info">
+											<a href="#" class="h6 author-name" style="margin-bottom: 0px;">Susan Meyer</a>
+											<div class="author-company">engineer, 32 años</div>
+										</div>
+										<h6 class="testimonial-text">
+											‘Investigationes demonstraverunt lectores legere me lius quod ii legunt
+											saepius per seacula quarta decima decima.’
+										</h6>
+
+										<ul class="rait-stars">
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star"><use xlink:href="#utouch-icon-star"></use></svg>
+												</a>
+											</li>
+											<li>
+												<a href="#">
+													<svg class="utouch-icon utouch-icon-star-half-empty"><use xlink:href="#utouch-icon-star-half-empty"></use></svg>
+												</a>
+											</li>
+										</ul>
+									</div>
+
+								</div>
+							</div>
+
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+
+		<!--Prev next buttons-->
+
+		<div class="btn-prev" style="top: 70%">
+			<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
+			<svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
+		</div>
+
+		<div class="btn-next" style="top: 70%">
+			<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
+			<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
+		</div>
+	</section>
+
+	<!---- end Testimonials -->
+
 	<!-- Skew-row Promo Block-->
 
-	<section class="section-bg-skew bg-white bg-12d align-center pt180 pb120 not-bottom-element">
+	<section class=" bg-white bg-12d align-center pt180 pb120 not-bottom-element">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12">
